@@ -21,7 +21,7 @@ function App() {
   } = useQuizLogic(verbs, selectedTenses, gameMode);
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}verbs.json`)
+    fetch(`${import.meta.env.BASE_URL}verbs.json?t=${Date.now()}`)
       .then(res => res.json())
       .then(data => setVerbs(data))
       .catch(err => console.error("Error loading verbs data:", err));
