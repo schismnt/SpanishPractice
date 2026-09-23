@@ -1,0 +1,3902 @@
+[
+  {
+    "infinitive": "ser",
+    "translation": "to be",
+    "conjugations": {
+      "Present": {
+        "yo": "soy",
+        "tú": "eres",
+        "él/ella/usted": "es",
+        "nosotros/as": "somos",
+        "vosotros/as": "sois",
+        "ellos/ellas/ustedes": "son"
+      },
+      "Preterite": {
+        "yo": "fui",
+        "tú": "fuiste",
+        "él/ella/usted": "fue",
+        "nosotros/as": "fuimos",
+        "vosotros/as": "fuisteis",
+        "ellos/ellas/ustedes": "fueron"
+      },
+      "Imperfect": {
+        "yo": "era",
+        "tú": "eras",
+        "él/ella/usted": "era",
+        "nosotros/as": "éramos",
+        "vosotros/as": "erais",
+        "ellos/ellas/ustedes": "eran"
+      },
+      "Future": {
+        "yo": "seré",
+        "tú": "serás",
+        "él/ella/usted": "será",
+        "nosotros/as": "seremos",
+        "vosotros/as": "seréis",
+        "ellos/ellas/ustedes": "serán"
+      },
+      "Conditional": {
+        "yo": "sería",
+        "tú": "serías",
+        "él/ella/usted": "sería",
+        "nosotros/as": "seríamos",
+        "vosotros/as": "seríais",
+        "ellos/ellas/ustedes": "serían"
+      },
+      "Present Subjunctive": {
+        "yo": "sea",
+        "tú": "seas",
+        "él/ella/usted": "sea",
+        "nosotros/as": "seamos",
+        "vosotros/as": "seáis",
+        "ellos/ellas/ustedes": "sean"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "fuera",
+        "tú": "fueras",
+        "él/ella/usted": "fuera",
+        "nosotros/as": "fuéramos",
+        "vosotros/as": "fuerais",
+        "ellos/ellas/ustedes": "fueran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "sé",
+        "él/ella/usted": "sea",
+        "nosotros/as": "seamos",
+        "vosotros/as": "sed",
+        "ellos/ellas/ustedes": "sean"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no seas",
+        "él/ella/usted": "no sea",
+        "nosotros/as": "no seamos",
+        "vosotros/as": "no seáis",
+        "ellos/ellas/ustedes": "no sean"
+      }
+    }
+  },
+  {
+    "infinitive": "haber",
+    "translation": "to have (auxiliary)",
+    "conjugations": {
+      "Present": {
+        "yo": "he",
+        "tú": "has",
+        "él/ella/usted": "ha",
+        "nosotros/as": "hemos",
+        "vosotros/as": "habéis",
+        "ellos/ellas/ustedes": "han"
+      },
+      "Preterite": {
+        "yo": "hube",
+        "tú": "hubiste",
+        "él/ella/usted": "hubo",
+        "nosotros/as": "hubimos",
+        "vosotros/as": "hubisteis",
+        "ellos/ellas/ustedes": "hubieron"
+      },
+      "Imperfect": {
+        "yo": "había",
+        "tú": "habías",
+        "él/ella/usted": "había",
+        "nosotros/as": "habíamos",
+        "vosotros/as": "habíais",
+        "ellos/ellas/ustedes": "habían"
+      },
+      "Future": {
+        "yo": "habré",
+        "tú": "habrás",
+        "él/ella/usted": "habrá",
+        "nosotros/as": "habremos",
+        "vosotros/as": "habréis",
+        "ellos/ellas/ustedes": "habrán"
+      },
+      "Conditional": {
+        "yo": "habría",
+        "tú": "habrías",
+        "él/ella/usted": "habría",
+        "nosotros/as": "habríamos",
+        "vosotros/as": "habríais",
+        "ellos/ellas/ustedes": "habrían"
+      },
+      "Present Subjunctive": {
+        "yo": "haya",
+        "tú": "hayas",
+        "él/ella/usted": "haya",
+        "nosotros/as": "hayamos",
+        "vosotros/as": "hayáis",
+        "ellos/ellas/ustedes": "hayan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "hubiera",
+        "tú": "hubieras",
+        "él/ella/usted": "hubiera",
+        "nosotros/as": "hubiéramos",
+        "vosotros/as": "hubierais",
+        "ellos/ellas/ustedes": "hubieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "he",
+        "él/ella/usted": "haya",
+        "nosotros/as": "hayamos",
+        "vosotros/as": "habed",
+        "ellos/ellas/ustedes": "hayan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no hayas",
+        "él/ella/usted": "no haya",
+        "nosotros/as": "no hayamos",
+        "vosotros/as": "no hayáis",
+        "ellos/ellas/ustedes": "no hayan"
+      }
+    }
+  },
+  {
+    "infinitive": "estar",
+    "translation": "to be",
+    "conjugations": {
+      "Present": {
+        "yo": "estoy",
+        "tú": "estás",
+        "él/ella/usted": "está",
+        "nosotros/as": "estamos",
+        "vosotros/as": "estáis",
+        "ellos/ellas/ustedes": "están"
+      },
+      "Preterite": {
+        "yo": "estuve",
+        "tú": "estuviste",
+        "él/ella/usted": "estuvo",
+        "nosotros/as": "estuvimos",
+        "vosotros/as": "estuvisteis",
+        "ellos/ellas/ustedes": "estuvieron"
+      },
+      "Imperfect": {
+        "yo": "estaba",
+        "tú": "estabas",
+        "él/ella/usted": "estaba",
+        "nosotros/as": "estábamos",
+        "vosotros/as": "estabais",
+        "ellos/ellas/ustedes": "estaban"
+      },
+      "Future": {
+        "yo": "estaré",
+        "tú": "estarás",
+        "él/ella/usted": "estará",
+        "nosotros/as": "estaremos",
+        "vosotros/as": "estaréis",
+        "ellos/ellas/ustedes": "estarán"
+      },
+      "Conditional": {
+        "yo": "estaría",
+        "tú": "estarías",
+        "él/ella/usted": "estaría",
+        "nosotros/as": "estaríamos",
+        "vosotros/as": "estaríais",
+        "ellos/ellas/ustedes": "estarían"
+      },
+      "Present Subjunctive": {
+        "yo": "esté",
+        "tú": "estés",
+        "él/ella/usted": "esté",
+        "nosotros/as": "estemos",
+        "vosotros/as": "estéis",
+        "ellos/ellas/ustedes": "estén"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "estuviera",
+        "tú": "estuvieras",
+        "él/ella/usted": "estuviera",
+        "nosotros/as": "estuviéramos",
+        "vosotros/as": "estuvierais",
+        "ellos/ellas/ustedes": "estuvieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "está",
+        "él/ella/usted": "esté",
+        "nosotros/as": "estemos",
+        "vosotros/as": "estad",
+        "ellos/ellas/ustedes": "estén"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no estés",
+        "él/ella/usted": "no esté",
+        "nosotros/as": "no estemos",
+        "vosotros/as": "no estéis",
+        "ellos/ellas/ustedes": "no estén"
+      }
+    }
+  },
+  {
+    "infinitive": "tener",
+    "translation": "to have",
+    "conjugations": {
+      "Present": {
+        "yo": "tengo",
+        "tú": "tienes",
+        "él/ella/usted": "tiene",
+        "nosotros/as": "tenemos",
+        "vosotros/as": "tenéis",
+        "ellos/ellas/ustedes": "tienen"
+      },
+      "Preterite": {
+        "yo": "tuve",
+        "tú": "tuviste",
+        "él/ella/usted": "tuvo",
+        "nosotros/as": "tuvimos",
+        "vosotros/as": "tuvisteis",
+        "ellos/ellas/ustedes": "tuvieron"
+      },
+      "Imperfect": {
+        "yo": "tenía",
+        "tú": "tenías",
+        "él/ella/usted": "tenía",
+        "nosotros/as": "teníamos",
+        "vosotros/as": "teníais",
+        "ellos/ellas/ustedes": "tenían"
+      },
+      "Future": {
+        "yo": "tendré",
+        "tú": "tendrás",
+        "él/ella/usted": "tendrá",
+        "nosotros/as": "tendremos",
+        "vosotros/as": "tendréis",
+        "ellos/ellas/ustedes": "tendrán"
+      },
+      "Conditional": {
+        "yo": "tendría",
+        "tú": "tendrías",
+        "él/ella/usted": "tendría",
+        "nosotros/as": "tendríamos",
+        "vosotros/as": "tendríais",
+        "ellos/ellas/ustedes": "tendrían"
+      },
+      "Present Subjunctive": {
+        "yo": "tenga",
+        "tú": "tengas",
+        "él/ella/usted": "tenga",
+        "nosotros/as": "tengamos",
+        "vosotros/as": "tengáis",
+        "ellos/ellas/ustedes": "tengan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "tuviera",
+        "tú": "tuvieras",
+        "él/ella/usted": "tuviera",
+        "nosotros/as": "tuviéramos",
+        "vosotros/as": "tuvierais",
+        "ellos/ellas/ustedes": "tuvieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "ten",
+        "él/ella/usted": "tenga",
+        "nosotros/as": "tengamos",
+        "vosotros/as": "tened",
+        "ellos/ellas/ustedes": "tengan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no tengas",
+        "él/ella/usted": "no tenga",
+        "nosotros/as": "no tengamos",
+        "vosotros/as": "no tengáis",
+        "ellos/ellas/ustedes": "no tengan"
+      }
+    }
+  },
+  {
+    "infinitive": "hacer",
+    "translation": "to do/make",
+    "conjugations": {
+      "Present": {
+        "yo": "hago",
+        "tú": "haces",
+        "él/ella/usted": "hace",
+        "nosotros/as": "hacemos",
+        "vosotros/as": "hacéis",
+        "ellos/ellas/ustedes": "hacen"
+      },
+      "Preterite": {
+        "yo": "hice",
+        "tú": "hiciste",
+        "él/ella/usted": "hizo",
+        "nosotros/as": "hicimos",
+        "vosotros/as": "hicisteis",
+        "ellos/ellas/ustedes": "hicieron"
+      },
+      "Imperfect": {
+        "yo": "hacía",
+        "tú": "hacías",
+        "él/ella/usted": "hacía",
+        "nosotros/as": "hacíamos",
+        "vosotros/as": "hacíais",
+        "ellos/ellas/ustedes": "hacían"
+      },
+      "Future": {
+        "yo": "haré",
+        "tú": "harás",
+        "él/ella/usted": "hará",
+        "nosotros/as": "haremos",
+        "vosotros/as": "haréis",
+        "ellos/ellas/ustedes": "harán"
+      },
+      "Conditional": {
+        "yo": "haría",
+        "tú": "harías",
+        "él/ella/usted": "haría",
+        "nosotros/as": "haríamos",
+        "vosotros/as": "haríais",
+        "ellos/ellas/ustedes": "harían"
+      },
+      "Present Subjunctive": {
+        "yo": "haga",
+        "tú": "hagas",
+        "él/ella/usted": "haga",
+        "nosotros/as": "hagamos",
+        "vosotros/as": "hagáis",
+        "ellos/ellas/ustedes": "hagan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "hiciera",
+        "tú": "hicieras",
+        "él/ella/usted": "hiciera",
+        "nosotros/as": "hiciéramos",
+        "vosotros/as": "hicierais",
+        "ellos/ellas/ustedes": "hicieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "haz",
+        "él/ella/usted": "haga",
+        "nosotros/as": "hagamos",
+        "vosotros/as": "haced",
+        "ellos/ellas/ustedes": "hagan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no hagas",
+        "él/ella/usted": "no haga",
+        "nosotros/as": "no hagamos",
+        "vosotros/as": "no hagáis",
+        "ellos/ellas/ustedes": "no hagan"
+      }
+    }
+  },
+  {
+    "infinitive": "poder",
+    "translation": "to be able to",
+    "conjugations": {
+      "Present": {
+        "yo": "puedo",
+        "tú": "puedes",
+        "él/ella/usted": "puede",
+        "nosotros/as": "podemos",
+        "vosotros/as": "podéis",
+        "ellos/ellas/ustedes": "pueden"
+      },
+      "Preterite": {
+        "yo": "pude",
+        "tú": "pudiste",
+        "él/ella/usted": "pudo",
+        "nosotros/as": "pudimos",
+        "vosotros/as": "pudisteis",
+        "ellos/ellas/ustedes": "pudieron"
+      },
+      "Imperfect": {
+        "yo": "podía",
+        "tú": "podías",
+        "él/ella/usted": "podía",
+        "nosotros/as": "podíamos",
+        "vosotros/as": "podíais",
+        "ellos/ellas/ustedes": "podían"
+      },
+      "Future": {
+        "yo": "podré",
+        "tú": "podrás",
+        "él/ella/usted": "podrá",
+        "nosotros/as": "podremos",
+        "vosotros/as": "podréis",
+        "ellos/ellas/ustedes": "podrán"
+      },
+      "Conditional": {
+        "yo": "podría",
+        "tú": "podrías",
+        "él/ella/usted": "podría",
+        "nosotros/as": "podríamos",
+        "vosotros/as": "podríais",
+        "ellos/ellas/ustedes": "podrían"
+      },
+      "Present Subjunctive": {
+        "yo": "pueda",
+        "tú": "puedas",
+        "él/ella/usted": "pueda",
+        "nosotros/as": "podamos",
+        "vosotros/as": "podáis",
+        "ellos/ellas/ustedes": "puedan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "pudiera",
+        "tú": "pudieras",
+        "él/ella/usted": "pudiera",
+        "nosotros/as": "pudiéramos",
+        "vosotros/as": "pudierais",
+        "ellos/ellas/ustedes": "pudieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "puede",
+        "él/ella/usted": "pueda",
+        "nosotros/as": "podamos",
+        "vosotros/as": "poded",
+        "ellos/ellas/ustedes": "puedan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no puedas",
+        "él/ella/usted": "no pueda",
+        "nosotros/as": "no podamos",
+        "vosotros/as": "no podáis",
+        "ellos/ellas/ustedes": "no puedan"
+      }
+    }
+  },
+  {
+    "infinitive": "decir",
+    "translation": "to say/tell",
+    "conjugations": {
+      "Present": {
+        "yo": "digo",
+        "tú": "dices",
+        "él/ella/usted": "dice",
+        "nosotros/as": "decimos",
+        "vosotros/as": "decís",
+        "ellos/ellas/ustedes": "dicen"
+      },
+      "Preterite": {
+        "yo": "dije",
+        "tú": "dijiste",
+        "él/ella/usted": "dijo",
+        "nosotros/as": "dijimos",
+        "vosotros/as": "dijisteis",
+        "ellos/ellas/ustedes": "dijeron"
+      },
+      "Imperfect": {
+        "yo": "decía",
+        "tú": "decías",
+        "él/ella/usted": "decía",
+        "nosotros/as": "decíamos",
+        "vosotros/as": "decíais",
+        "ellos/ellas/ustedes": "decían"
+      },
+      "Future": {
+        "yo": "diré",
+        "tú": "dirás",
+        "él/ella/usted": "dirá",
+        "nosotros/as": "diremos",
+        "vosotros/as": "diréis",
+        "ellos/ellas/ustedes": "dirán"
+      },
+      "Conditional": {
+        "yo": "diría",
+        "tú": "dirías",
+        "él/ella/usted": "diría",
+        "nosotros/as": "diríamos",
+        "vosotros/as": "diríais",
+        "ellos/ellas/ustedes": "dirían"
+      },
+      "Present Subjunctive": {
+        "yo": "diga",
+        "tú": "digas",
+        "él/ella/usted": "diga",
+        "nosotros/as": "digamos",
+        "vosotros/as": "digáis",
+        "ellos/ellas/ustedes": "digan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "dijera",
+        "tú": "dijeras",
+        "él/ella/usted": "dijera",
+        "nosotros/as": "dijéramos",
+        "vosotros/as": "dijerais",
+        "ellos/ellas/ustedes": "dijeran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "di",
+        "él/ella/usted": "diga",
+        "nosotros/as": "digamos",
+        "vosotros/as": "decid",
+        "ellos/ellas/ustedes": "digan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no digas",
+        "él/ella/usted": "no diga",
+        "nosotros/as": "no digamos",
+        "vosotros/as": "no digáis",
+        "ellos/ellas/ustedes": "no digan"
+      }
+    }
+  },
+  {
+    "infinitive": "ir",
+    "translation": "to go",
+    "conjugations": {
+      "Present": {
+        "yo": "voy",
+        "tú": "vas",
+        "él/ella/usted": "va",
+        "nosotros/as": "vamos",
+        "vosotros/as": "vais",
+        "ellos/ellas/ustedes": "van"
+      },
+      "Preterite": {
+        "yo": "fui",
+        "tú": "fuiste",
+        "él/ella/usted": "fue",
+        "nosotros/as": "fuimos",
+        "vosotros/as": "fuisteis",
+        "ellos/ellas/ustedes": "fueron"
+      },
+      "Imperfect": {
+        "yo": "iba",
+        "tú": "ibas",
+        "él/ella/usted": "iba",
+        "nosotros/as": "íbamos",
+        "vosotros/as": "ibais",
+        "ellos/ellas/ustedes": "iban"
+      },
+      "Future": {
+        "yo": "iré",
+        "tú": "irás",
+        "él/ella/usted": "irá",
+        "nosotros/as": "iremos",
+        "vosotros/as": "iréis",
+        "ellos/ellas/ustedes": "irán"
+      },
+      "Conditional": {
+        "yo": "iría",
+        "tú": "irías",
+        "él/ella/usted": "iría",
+        "nosotros/as": "iríamos",
+        "vosotros/as": "iríais",
+        "ellos/ellas/ustedes": "irían"
+      },
+      "Present Subjunctive": {
+        "yo": "vaya",
+        "tú": "vayas",
+        "él/ella/usted": "vaya",
+        "nosotros/as": "vayamos",
+        "vosotros/as": "vayáis",
+        "ellos/ellas/ustedes": "vayan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "fuera",
+        "tú": "fueras",
+        "él/ella/usted": "fuera",
+        "nosotros/as": "fuéramos",
+        "vosotros/as": "fuerais",
+        "ellos/ellas/ustedes": "fueran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "ve",
+        "él/ella/usted": "vaya",
+        "nosotros/as": "vayamos",
+        "vosotros/as": "id",
+        "ellos/ellas/ustedes": "vayan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no vayas",
+        "él/ella/usted": "no vaya",
+        "nosotros/as": "no vayamos",
+        "vosotros/as": "no vayáis",
+        "ellos/ellas/ustedes": "no vayan"
+      }
+    }
+  },
+  {
+    "infinitive": "ver",
+    "translation": "to see",
+    "conjugations": {
+      "Present": {
+        "yo": "veo",
+        "tú": "ves",
+        "él/ella/usted": "ve",
+        "nosotros/as": "vemos",
+        "vosotros/as": "veis",
+        "ellos/ellas/ustedes": "ven"
+      },
+      "Preterite": {
+        "yo": "vi",
+        "tú": "viste",
+        "él/ella/usted": "vio",
+        "nosotros/as": "vimos",
+        "vosotros/as": "visteis",
+        "ellos/ellas/ustedes": "vieron"
+      },
+      "Imperfect": {
+        "yo": "veía",
+        "tú": "veías",
+        "él/ella/usted": "veía",
+        "nosotros/as": "veíamos",
+        "vosotros/as": "veíais",
+        "ellos/ellas/ustedes": "veían"
+      },
+      "Future": {
+        "yo": "veré",
+        "tú": "verás",
+        "él/ella/usted": "verá",
+        "nosotros/as": "veremos",
+        "vosotros/as": "veréis",
+        "ellos/ellas/ustedes": "verán"
+      },
+      "Conditional": {
+        "yo": "vería",
+        "tú": "verías",
+        "él/ella/usted": "vería",
+        "nosotros/as": "veríamos",
+        "vosotros/as": "veríais",
+        "ellos/ellas/ustedes": "verían"
+      },
+      "Present Subjunctive": {
+        "yo": "vea",
+        "tú": "veas",
+        "él/ella/usted": "vea",
+        "nosotros/as": "veamos",
+        "vosotros/as": "veáis",
+        "ellos/ellas/ustedes": "vean"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "viera",
+        "tú": "vieras",
+        "él/ella/usted": "viera",
+        "nosotros/as": "viéramos",
+        "vosotros/as": "vierais",
+        "ellos/ellas/ustedes": "vieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "ve",
+        "él/ella/usted": "vea",
+        "nosotros/as": "veamos",
+        "vosotros/as": "ved",
+        "ellos/ellas/ustedes": "vean"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no veas",
+        "él/ella/usted": "no vea",
+        "nosotros/as": "no veamos",
+        "vosotros/as": "no veáis",
+        "ellos/ellas/ustedes": "no vean"
+      }
+    }
+  },
+  {
+    "infinitive": "dar",
+    "translation": "to give",
+    "conjugations": {
+      "Present": {
+        "yo": "doy",
+        "tú": "das",
+        "él/ella/usted": "da",
+        "nosotros/as": "damos",
+        "vosotros/as": "dais",
+        "ellos/ellas/ustedes": "dan"
+      },
+      "Preterite": {
+        "yo": "di",
+        "tú": "diste",
+        "él/ella/usted": "dio",
+        "nosotros/as": "dimos",
+        "vosotros/as": "disteis",
+        "ellos/ellas/ustedes": "dieron"
+      },
+      "Imperfect": {
+        "yo": "daba",
+        "tú": "dabas",
+        "él/ella/usted": "daba",
+        "nosotros/as": "dábamos",
+        "vosotros/as": "dabais",
+        "ellos/ellas/ustedes": "daban"
+      },
+      "Future": {
+        "yo": "daré",
+        "tú": "darás",
+        "él/ella/usted": "dará",
+        "nosotros/as": "daremos",
+        "vosotros/as": "daréis",
+        "ellos/ellas/ustedes": "darán"
+      },
+      "Conditional": {
+        "yo": "daría",
+        "tú": "darías",
+        "él/ella/usted": "daría",
+        "nosotros/as": "daríamos",
+        "vosotros/as": "daríais",
+        "ellos/ellas/ustedes": "darían"
+      },
+      "Present Subjunctive": {
+        "yo": "dé",
+        "tú": "des",
+        "él/ella/usted": "dé",
+        "nosotros/as": "demos",
+        "vosotros/as": "deis",
+        "ellos/ellas/ustedes": "den"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "diera",
+        "tú": "dieras",
+        "él/ella/usted": "diera",
+        "nosotros/as": "diéramos",
+        "vosotros/as": "dierais",
+        "ellos/ellas/ustedes": "dieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "da",
+        "él/ella/usted": "dé",
+        "nosotros/as": "demos",
+        "vosotros/as": "dad",
+        "ellos/ellas/ustedes": "den"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no des",
+        "él/ella/usted": "no dé",
+        "nosotros/as": "no demos",
+        "vosotros/as": "no deis",
+        "ellos/ellas/ustedes": "no den"
+      }
+    }
+  },
+  {
+    "infinitive": "saber",
+    "translation": "to know",
+    "conjugations": {
+      "Present": {
+        "yo": "sé",
+        "tú": "sabes",
+        "él/ella/usted": "sabe",
+        "nosotros/as": "sabemos",
+        "vosotros/as": "sabéis",
+        "ellos/ellas/ustedes": "saben"
+      },
+      "Preterite": {
+        "yo": "supe",
+        "tú": "supiste",
+        "él/ella/usted": "supo",
+        "nosotros/as": "supimos",
+        "vosotros/as": "supisteis",
+        "ellos/ellas/ustedes": "supieron"
+      },
+      "Imperfect": {
+        "yo": "sabía",
+        "tú": "sabías",
+        "él/ella/usted": "sabía",
+        "nosotros/as": "sabíamos",
+        "vosotros/as": "sabíais",
+        "ellos/ellas/ustedes": "sabían"
+      },
+      "Future": {
+        "yo": "sabré",
+        "tú": "sabrás",
+        "él/ella/usted": "sabrá",
+        "nosotros/as": "sabremos",
+        "vosotros/as": "sabréis",
+        "ellos/ellas/ustedes": "sabrán"
+      },
+      "Conditional": {
+        "yo": "sabría",
+        "tú": "sabrías",
+        "él/ella/usted": "sabría",
+        "nosotros/as": "sabríamos",
+        "vosotros/as": "sabríais",
+        "ellos/ellas/ustedes": "sabrían"
+      },
+      "Present Subjunctive": {
+        "yo": "sepa",
+        "tú": "sepas",
+        "él/ella/usted": "sepa",
+        "nosotros/as": "sepamos",
+        "vosotros/as": "sepáis",
+        "ellos/ellas/ustedes": "sepan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "supiera",
+        "tú": "supieras",
+        "él/ella/usted": "supiera",
+        "nosotros/as": "supiéramos",
+        "vosotros/as": "supierais",
+        "ellos/ellas/ustedes": "supieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "sabe",
+        "él/ella/usted": "sepa",
+        "nosotros/as": "sepamos",
+        "vosotros/as": "sabed",
+        "ellos/ellas/ustedes": "sepan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no sepas",
+        "él/ella/usted": "no sepa",
+        "nosotros/as": "no sepamos",
+        "vosotros/as": "no sepáis",
+        "ellos/ellas/ustedes": "no sepan"
+      }
+    }
+  },
+  {
+    "infinitive": "querer",
+    "translation": "to want",
+    "conjugations": {
+      "Present": {
+        "yo": "quiero",
+        "tú": "quieres",
+        "él/ella/usted": "quiere",
+        "nosotros/as": "queremos",
+        "vosotros/as": "queréis",
+        "ellos/ellas/ustedes": "quieren"
+      },
+      "Preterite": {
+        "yo": "quise",
+        "tú": "quisiste",
+        "él/ella/usted": "quiso",
+        "nosotros/as": "quisimos",
+        "vosotros/as": "quisisteis",
+        "ellos/ellas/ustedes": "quisieron"
+      },
+      "Imperfect": {
+        "yo": "quería",
+        "tú": "querías",
+        "él/ella/usted": "quería",
+        "nosotros/as": "queríamos",
+        "vosotros/as": "queríais",
+        "ellos/ellas/ustedes": "querían"
+      },
+      "Future": {
+        "yo": "querré",
+        "tú": "querrás",
+        "él/ella/usted": "querrá",
+        "nosotros/as": "querremos",
+        "vosotros/as": "querréis",
+        "ellos/ellas/ustedes": "querrán"
+      },
+      "Conditional": {
+        "yo": "querría",
+        "tú": "querrías",
+        "él/ella/usted": "querría",
+        "nosotros/as": "querríamos",
+        "vosotros/as": "querríais",
+        "ellos/ellas/ustedes": "querrían"
+      },
+      "Present Subjunctive": {
+        "yo": "quiera",
+        "tú": "quieras",
+        "él/ella/usted": "quiera",
+        "nosotros/as": "queramos",
+        "vosotros/as": "queráis",
+        "ellos/ellas/ustedes": "quieran"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "quisiera",
+        "tú": "quisieras",
+        "él/ella/usted": "quisiera",
+        "nosotros/as": "quisiéramos",
+        "vosotros/as": "quisierais",
+        "ellos/ellas/ustedes": "quisieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "quiere",
+        "él/ella/usted": "quiera",
+        "nosotros/as": "queramos",
+        "vosotros/as": "quered",
+        "ellos/ellas/ustedes": "quieran"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no quieras",
+        "él/ella/usted": "no quiera",
+        "nosotros/as": "no queramos",
+        "vosotros/as": "no queráis",
+        "ellos/ellas/ustedes": "no quieran"
+      }
+    }
+  },
+  {
+    "infinitive": "llegar",
+    "translation": "to arrive",
+    "conjugations": {
+      "Present": {
+        "yo": "llego",
+        "tú": "llegas",
+        "él/ella/usted": "llega",
+        "nosotros/as": "llegamos",
+        "vosotros/as": "llegáis",
+        "ellos/ellas/ustedes": "llegan"
+      },
+      "Preterite": {
+        "yo": "llegué",
+        "tú": "llegaste",
+        "él/ella/usted": "llegó",
+        "nosotros/as": "llegamos",
+        "vosotros/as": "llegasteis",
+        "ellos/ellas/ustedes": "llegaron"
+      },
+      "Imperfect": {
+        "yo": "llegaba",
+        "tú": "llegabas",
+        "él/ella/usted": "llegaba",
+        "nosotros/as": "llegábamos",
+        "vosotros/as": "llegabais",
+        "ellos/ellas/ustedes": "llegaban"
+      },
+      "Future": {
+        "yo": "llegaré",
+        "tú": "llegarás",
+        "él/ella/usted": "llegará",
+        "nosotros/as": "llegaremos",
+        "vosotros/as": "llegaréis",
+        "ellos/ellas/ustedes": "llegarán"
+      },
+      "Conditional": {
+        "yo": "llegaría",
+        "tú": "llegarías",
+        "él/ella/usted": "llegaría",
+        "nosotros/as": "llegaríamos",
+        "vosotros/as": "llegaríais",
+        "ellos/ellas/ustedes": "llegarían"
+      },
+      "Present Subjunctive": {
+        "yo": "llegue",
+        "tú": "llegues",
+        "él/ella/usted": "llegue",
+        "nosotros/as": "lleguemos",
+        "vosotros/as": "lleguéis",
+        "ellos/ellas/ustedes": "lleguen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "llegara",
+        "tú": "llegaras",
+        "él/ella/usted": "llegara",
+        "nosotros/as": "llegáramos",
+        "vosotros/as": "llegarais",
+        "ellos/ellas/ustedes": "llegaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "llega",
+        "él/ella/usted": "llegue",
+        "nosotros/as": "lleguemos",
+        "vosotros/as": "llegad",
+        "ellos/ellas/ustedes": "lleguen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no llegues",
+        "él/ella/usted": "no llegue",
+        "nosotros/as": "no lleguemos",
+        "vosotros/as": "no lleguéis",
+        "ellos/ellas/ustedes": "no lleguen"
+      }
+    }
+  },
+  {
+    "infinitive": "pasar",
+    "translation": "to pass/spend",
+    "conjugations": {
+      "Present": {
+        "yo": "paso",
+        "tú": "pasas",
+        "él/ella/usted": "pasa",
+        "nosotros/as": "pasamos",
+        "vosotros/as": "pasáis",
+        "ellos/ellas/ustedes": "pasan"
+      },
+      "Preterite": {
+        "yo": "pasé",
+        "tú": "pasaste",
+        "él/ella/usted": "pasó",
+        "nosotros/as": "pasamos",
+        "vosotros/as": "pasasteis",
+        "ellos/ellas/ustedes": "pasaron"
+      },
+      "Imperfect": {
+        "yo": "pasaba",
+        "tú": "pasabas",
+        "él/ella/usted": "pasaba",
+        "nosotros/as": "pasábamos",
+        "vosotros/as": "pasabais",
+        "ellos/ellas/ustedes": "pasaban"
+      },
+      "Future": {
+        "yo": "pasaré",
+        "tú": "pasarás",
+        "él/ella/usted": "pasará",
+        "nosotros/as": "pasaremos",
+        "vosotros/as": "pasaréis",
+        "ellos/ellas/ustedes": "pasarán"
+      },
+      "Conditional": {
+        "yo": "pasaría",
+        "tú": "pasarías",
+        "él/ella/usted": "pasaría",
+        "nosotros/as": "pasaríamos",
+        "vosotros/as": "pasaríais",
+        "ellos/ellas/ustedes": "pasarían"
+      },
+      "Present Subjunctive": {
+        "yo": "pase",
+        "tú": "pases",
+        "él/ella/usted": "pase",
+        "nosotros/as": "pasemos",
+        "vosotros/as": "paséis",
+        "ellos/ellas/ustedes": "pasen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "pasara",
+        "tú": "pasaras",
+        "él/ella/usted": "pasara",
+        "nosotros/as": "pasáramos",
+        "vosotros/as": "pasarais",
+        "ellos/ellas/ustedes": "pasaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "pasa",
+        "él/ella/usted": "pase",
+        "nosotros/as": "pasemos",
+        "vosotros/as": "pasad",
+        "ellos/ellas/ustedes": "pasen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no pases",
+        "él/ella/usted": "no pase",
+        "nosotros/as": "no pasemos",
+        "vosotros/as": "no paséis",
+        "ellos/ellas/ustedes": "no pasen"
+      }
+    }
+  },
+  {
+    "infinitive": "deber",
+    "translation": "must/should",
+    "conjugations": {
+      "Present": {
+        "yo": "debo",
+        "tú": "debes",
+        "él/ella/usted": "debe",
+        "nosotros/as": "debemos",
+        "vosotros/as": "debéis",
+        "ellos/ellas/ustedes": "deben"
+      },
+      "Preterite": {
+        "yo": "debí",
+        "tú": "debiste",
+        "él/ella/usted": "debió",
+        "nosotros/as": "debimos",
+        "vosotros/as": "debisteis",
+        "ellos/ellas/ustedes": "debieron"
+      },
+      "Imperfect": {
+        "yo": "debía",
+        "tú": "debías",
+        "él/ella/usted": "debía",
+        "nosotros/as": "debíamos",
+        "vosotros/as": "debíais",
+        "ellos/ellas/ustedes": "debían"
+      },
+      "Future": {
+        "yo": "deberé",
+        "tú": "deberás",
+        "él/ella/usted": "deberá",
+        "nosotros/as": "deberemos",
+        "vosotros/as": "deberéis",
+        "ellos/ellas/ustedes": "deberán"
+      },
+      "Conditional": {
+        "yo": "debería",
+        "tú": "deberías",
+        "él/ella/usted": "debería",
+        "nosotros/as": "deberíamos",
+        "vosotros/as": "deberíais",
+        "ellos/ellas/ustedes": "deberían"
+      },
+      "Present Subjunctive": {
+        "yo": "deba",
+        "tú": "debas",
+        "él/ella/usted": "deba",
+        "nosotros/as": "debamos",
+        "vosotros/as": "debáis",
+        "ellos/ellas/ustedes": "deban"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "debiera",
+        "tú": "debieras",
+        "él/ella/usted": "debiera",
+        "nosotros/as": "debiéramos",
+        "vosotros/as": "debierais",
+        "ellos/ellas/ustedes": "debieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "debe",
+        "él/ella/usted": "deba",
+        "nosotros/as": "debamos",
+        "vosotros/as": "debed",
+        "ellos/ellas/ustedes": "deban"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no debas",
+        "él/ella/usted": "no deba",
+        "nosotros/as": "no debamos",
+        "vosotros/as": "no debáis",
+        "ellos/ellas/ustedes": "no deban"
+      }
+    }
+  },
+  {
+    "infinitive": "poner",
+    "translation": "to put",
+    "conjugations": {
+      "Present": {
+        "yo": "pongo",
+        "tú": "pones",
+        "él/ella/usted": "pone",
+        "nosotros/as": "ponemos",
+        "vosotros/as": "ponéis",
+        "ellos/ellas/ustedes": "ponen"
+      },
+      "Preterite": {
+        "yo": "puse",
+        "tú": "pusiste",
+        "él/ella/usted": "puso",
+        "nosotros/as": "pusimos",
+        "vosotros/as": "pusisteis",
+        "ellos/ellas/ustedes": "pusieron"
+      },
+      "Imperfect": {
+        "yo": "ponía",
+        "tú": "ponías",
+        "él/ella/usted": "ponía",
+        "nosotros/as": "poníamos",
+        "vosotros/as": "poníais",
+        "ellos/ellas/ustedes": "ponían"
+      },
+      "Future": {
+        "yo": "pondré",
+        "tú": "pondrás",
+        "él/ella/usted": "pondrá",
+        "nosotros/as": "pondremos",
+        "vosotros/as": "pondréis",
+        "ellos/ellas/ustedes": "pondrán"
+      },
+      "Conditional": {
+        "yo": "pondría",
+        "tú": "pondrías",
+        "él/ella/usted": "pondría",
+        "nosotros/as": "pondríamos",
+        "vosotros/as": "pondríais",
+        "ellos/ellas/ustedes": "pondrían"
+      },
+      "Present Subjunctive": {
+        "yo": "ponga",
+        "tú": "pongas",
+        "él/ella/usted": "ponga",
+        "nosotros/as": "pongamos",
+        "vosotros/as": "pongáis",
+        "ellos/ellas/ustedes": "pongan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "pusiera",
+        "tú": "pusieras",
+        "él/ella/usted": "pusiera",
+        "nosotros/as": "pusiéramos",
+        "vosotros/as": "pusierais",
+        "ellos/ellas/ustedes": "pusieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "pon",
+        "él/ella/usted": "ponga",
+        "nosotros/as": "pongamos",
+        "vosotros/as": "poned",
+        "ellos/ellas/ustedes": "pongan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no pongas",
+        "él/ella/usted": "no ponga",
+        "nosotros/as": "no pongamos",
+        "vosotros/as": "no pongáis",
+        "ellos/ellas/ustedes": "no pongan"
+      }
+    }
+  },
+  {
+    "infinitive": "parecer",
+    "translation": "to seem",
+    "conjugations": {
+      "Present": {
+        "yo": "parezco",
+        "tú": "pareces",
+        "él/ella/usted": "parece",
+        "nosotros/as": "parecemos",
+        "vosotros/as": "parecéis",
+        "ellos/ellas/ustedes": "parecen"
+      },
+      "Preterite": {
+        "yo": "parecí",
+        "tú": "pareciste",
+        "él/ella/usted": "pareció",
+        "nosotros/as": "parecimos",
+        "vosotros/as": "parecisteis",
+        "ellos/ellas/ustedes": "parecieron"
+      },
+      "Imperfect": {
+        "yo": "parecía",
+        "tú": "parecías",
+        "él/ella/usted": "parecía",
+        "nosotros/as": "parecíamos",
+        "vosotros/as": "parecíais",
+        "ellos/ellas/ustedes": "parecían"
+      },
+      "Future": {
+        "yo": "pareceré",
+        "tú": "parecerás",
+        "él/ella/usted": "parecerá",
+        "nosotros/as": "pareceremos",
+        "vosotros/as": "pareceréis",
+        "ellos/ellas/ustedes": "parecerán"
+      },
+      "Conditional": {
+        "yo": "parecería",
+        "tú": "parecerías",
+        "él/ella/usted": "parecería",
+        "nosotros/as": "pareceríamos",
+        "vosotros/as": "pareceríais",
+        "ellos/ellas/ustedes": "parecerían"
+      },
+      "Present Subjunctive": {
+        "yo": "parezca",
+        "tú": "parezcas",
+        "él/ella/usted": "parezca",
+        "nosotros/as": "parezcamos",
+        "vosotros/as": "parezcáis",
+        "ellos/ellas/ustedes": "parezcan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "pareciera",
+        "tú": "parecieras",
+        "él/ella/usted": "pareciera",
+        "nosotros/as": "pareciéramos",
+        "vosotros/as": "parecierais",
+        "ellos/ellas/ustedes": "parecieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "parece",
+        "él/ella/usted": "parezca",
+        "nosotros/as": "parezcamos",
+        "vosotros/as": "pareced",
+        "ellos/ellas/ustedes": "parezcan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no parezcas",
+        "él/ella/usted": "no parezca",
+        "nosotros/as": "no parezcamos",
+        "vosotros/as": "no parezcáis",
+        "ellos/ellas/ustedes": "no parezcan"
+      }
+    }
+  },
+  {
+    "infinitive": "quedar",
+    "translation": "to stay/remain",
+    "conjugations": {
+      "Present": {
+        "yo": "quedo",
+        "tú": "quedas",
+        "él/ella/usted": "queda",
+        "nosotros/as": "quedamos",
+        "vosotros/as": "quedáis",
+        "ellos/ellas/ustedes": "quedan"
+      },
+      "Preterite": {
+        "yo": "quedé",
+        "tú": "quedaste",
+        "él/ella/usted": "quedó",
+        "nosotros/as": "quedamos",
+        "vosotros/as": "quedasteis",
+        "ellos/ellas/ustedes": "quedaron"
+      },
+      "Imperfect": {
+        "yo": "quedaba",
+        "tú": "quedabas",
+        "él/ella/usted": "quedaba",
+        "nosotros/as": "quedábamos",
+        "vosotros/as": "quedabais",
+        "ellos/ellas/ustedes": "quedaban"
+      },
+      "Future": {
+        "yo": "quedaré",
+        "tú": "quedarás",
+        "él/ella/usted": "quedará",
+        "nosotros/as": "quedaremos",
+        "vosotros/as": "quedaréis",
+        "ellos/ellas/ustedes": "quedarán"
+      },
+      "Conditional": {
+        "yo": "quedaría",
+        "tú": "quedarías",
+        "él/ella/usted": "quedaría",
+        "nosotros/as": "quedaríamos",
+        "vosotros/as": "quedaríais",
+        "ellos/ellas/ustedes": "quedarían"
+      },
+      "Present Subjunctive": {
+        "yo": "quede",
+        "tú": "quedes",
+        "él/ella/usted": "quede",
+        "nosotros/as": "quedemos",
+        "vosotros/as": "quedéis",
+        "ellos/ellas/ustedes": "queden"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "quedara",
+        "tú": "quedaras",
+        "él/ella/usted": "quedara",
+        "nosotros/as": "quedáramos",
+        "vosotros/as": "quedarais",
+        "ellos/ellas/ustedes": "quedaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "queda",
+        "él/ella/usted": "quede",
+        "nosotros/as": "quedemos",
+        "vosotros/as": "quedad",
+        "ellos/ellas/ustedes": "queden"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no quedes",
+        "él/ella/usted": "no quede",
+        "nosotros/as": "no quedemos",
+        "vosotros/as": "no quedéis",
+        "ellos/ellas/ustedes": "no queden"
+      }
+    }
+  },
+  {
+    "infinitive": "creer",
+    "translation": "to believe",
+    "conjugations": {
+      "Present": {
+        "yo": "creo",
+        "tú": "crees",
+        "él/ella/usted": "cree",
+        "nosotros/as": "creemos",
+        "vosotros/as": "creéis",
+        "ellos/ellas/ustedes": "creen"
+      },
+      "Preterite": {
+        "yo": "creí",
+        "tú": "creíste",
+        "él/ella/usted": "creyó",
+        "nosotros/as": "creímos",
+        "vosotros/as": "creísteis",
+        "ellos/ellas/ustedes": "creyeron"
+      },
+      "Imperfect": {
+        "yo": "creía",
+        "tú": "creías",
+        "él/ella/usted": "creía",
+        "nosotros/as": "creíamos",
+        "vosotros/as": "creíais",
+        "ellos/ellas/ustedes": "creían"
+      },
+      "Future": {
+        "yo": "creeré",
+        "tú": "creerás",
+        "él/ella/usted": "creerá",
+        "nosotros/as": "creeremos",
+        "vosotros/as": "creeréis",
+        "ellos/ellas/ustedes": "creerán"
+      },
+      "Conditional": {
+        "yo": "creería",
+        "tú": "creerías",
+        "él/ella/usted": "creería",
+        "nosotros/as": "creeríamos",
+        "vosotros/as": "creeríais",
+        "ellos/ellas/ustedes": "creerían"
+      },
+      "Present Subjunctive": {
+        "yo": "crea",
+        "tú": "creas",
+        "él/ella/usted": "crea",
+        "nosotros/as": "creamos",
+        "vosotros/as": "creáis",
+        "ellos/ellas/ustedes": "crean"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "creyera",
+        "tú": "creyeras",
+        "él/ella/usted": "creyera",
+        "nosotros/as": "creyéramos",
+        "vosotros/as": "creyerais",
+        "ellos/ellas/ustedes": "creyeran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "cree",
+        "él/ella/usted": "crea",
+        "nosotros/as": "creamos",
+        "vosotros/as": "creed",
+        "ellos/ellas/ustedes": "crean"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no creas",
+        "él/ella/usted": "no crea",
+        "nosotros/as": "no creamos",
+        "vosotros/as": "no creáis",
+        "ellos/ellas/ustedes": "no crean"
+      }
+    }
+  },
+  {
+    "infinitive": "hablar",
+    "translation": "to speak",
+    "conjugations": {
+      "Present": {
+        "yo": "hablo",
+        "tú": "hablas",
+        "él/ella/usted": "habla",
+        "nosotros/as": "hablamos",
+        "vosotros/as": "habláis",
+        "ellos/ellas/ustedes": "hablan"
+      },
+      "Preterite": {
+        "yo": "hablé",
+        "tú": "hablaste",
+        "él/ella/usted": "habló",
+        "nosotros/as": "hablamos",
+        "vosotros/as": "hablasteis",
+        "ellos/ellas/ustedes": "hablaron"
+      },
+      "Imperfect": {
+        "yo": "hablaba",
+        "tú": "hablabas",
+        "él/ella/usted": "hablaba",
+        "nosotros/as": "hablábamos",
+        "vosotros/as": "hablabais",
+        "ellos/ellas/ustedes": "hablaban"
+      },
+      "Future": {
+        "yo": "hablaré",
+        "tú": "hablarás",
+        "él/ella/usted": "hablará",
+        "nosotros/as": "hablaremos",
+        "vosotros/as": "hablaréis",
+        "ellos/ellas/ustedes": "hablarán"
+      },
+      "Conditional": {
+        "yo": "hablaría",
+        "tú": "hablarías",
+        "él/ella/usted": "hablaría",
+        "nosotros/as": "hablaríamos",
+        "vosotros/as": "hablaríais",
+        "ellos/ellas/ustedes": "hablarían"
+      },
+      "Present Subjunctive": {
+        "yo": "hable",
+        "tú": "hables",
+        "él/ella/usted": "hable",
+        "nosotros/as": "hablemos",
+        "vosotros/as": "habléis",
+        "ellos/ellas/ustedes": "hablen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "hablara",
+        "tú": "hablaras",
+        "él/ella/usted": "hablara",
+        "nosotros/as": "habláramos",
+        "vosotros/as": "hablarais",
+        "ellos/ellas/ustedes": "hablaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "habla",
+        "él/ella/usted": "hable",
+        "nosotros/as": "hablemos",
+        "vosotros/as": "hablad",
+        "ellos/ellas/ustedes": "hablen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no hables",
+        "él/ella/usted": "no hable",
+        "nosotros/as": "no hablemos",
+        "vosotros/as": "no habléis",
+        "ellos/ellas/ustedes": "no hablen"
+      }
+    }
+  },
+  {
+    "infinitive": "llevar",
+    "translation": "to take/carry",
+    "conjugations": {
+      "Present": {
+        "yo": "llevo",
+        "tú": "llevas",
+        "él/ella/usted": "lleva",
+        "nosotros/as": "llevamos",
+        "vosotros/as": "lleváis",
+        "ellos/ellas/ustedes": "llevan"
+      },
+      "Preterite": {
+        "yo": "llevé",
+        "tú": "llevaste",
+        "él/ella/usted": "llevó",
+        "nosotros/as": "llevamos",
+        "vosotros/as": "llevasteis",
+        "ellos/ellas/ustedes": "llevaron"
+      },
+      "Imperfect": {
+        "yo": "llevaba",
+        "tú": "llevabas",
+        "él/ella/usted": "llevaba",
+        "nosotros/as": "llevábamos",
+        "vosotros/as": "llevabais",
+        "ellos/ellas/ustedes": "llevaban"
+      },
+      "Future": {
+        "yo": "llevaré",
+        "tú": "llevarás",
+        "él/ella/usted": "llevará",
+        "nosotros/as": "llevaremos",
+        "vosotros/as": "llevaréis",
+        "ellos/ellas/ustedes": "llevarán"
+      },
+      "Conditional": {
+        "yo": "llevaría",
+        "tú": "llevarías",
+        "él/ella/usted": "llevaría",
+        "nosotros/as": "llevaríamos",
+        "vosotros/as": "llevaríais",
+        "ellos/ellas/ustedes": "llevarían"
+      },
+      "Present Subjunctive": {
+        "yo": "lleve",
+        "tú": "lleves",
+        "él/ella/usted": "lleve",
+        "nosotros/as": "llevemos",
+        "vosotros/as": "llevéis",
+        "ellos/ellas/ustedes": "lleven"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "llevara",
+        "tú": "llevaras",
+        "él/ella/usted": "llevara",
+        "nosotros/as": "lleváramos",
+        "vosotros/as": "llevarais",
+        "ellos/ellas/ustedes": "llevaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "lleva",
+        "él/ella/usted": "lleve",
+        "nosotros/as": "llevemos",
+        "vosotros/as": "llevad",
+        "ellos/ellas/ustedes": "lleven"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no lleves",
+        "él/ella/usted": "no lleve",
+        "nosotros/as": "no llevemos",
+        "vosotros/as": "no llevéis",
+        "ellos/ellas/ustedes": "no lleven"
+      }
+    }
+  },
+  {
+    "infinitive": "dejar",
+    "translation": "to leave/let",
+    "conjugations": {
+      "Present": {
+        "yo": "dejo",
+        "tú": "dejas",
+        "él/ella/usted": "deja",
+        "nosotros/as": "dejamos",
+        "vosotros/as": "dejáis",
+        "ellos/ellas/ustedes": "dejan"
+      },
+      "Preterite": {
+        "yo": "dejé",
+        "tú": "dejaste",
+        "él/ella/usted": "dejó",
+        "nosotros/as": "dejamos",
+        "vosotros/as": "dejasteis",
+        "ellos/ellas/ustedes": "dejaron"
+      },
+      "Imperfect": {
+        "yo": "dejaba",
+        "tú": "dejabas",
+        "él/ella/usted": "dejaba",
+        "nosotros/as": "dejábamos",
+        "vosotros/as": "dejabais",
+        "ellos/ellas/ustedes": "dejaban"
+      },
+      "Future": {
+        "yo": "dejaré",
+        "tú": "dejarás",
+        "él/ella/usted": "dejará",
+        "nosotros/as": "dejaremos",
+        "vosotros/as": "dejaréis",
+        "ellos/ellas/ustedes": "dejarán"
+      },
+      "Conditional": {
+        "yo": "dejaría",
+        "tú": "dejarías",
+        "él/ella/usted": "dejaría",
+        "nosotros/as": "dejaríamos",
+        "vosotros/as": "dejaríais",
+        "ellos/ellas/ustedes": "dejarían"
+      },
+      "Present Subjunctive": {
+        "yo": "deje",
+        "tú": "dejes",
+        "él/ella/usted": "deje",
+        "nosotros/as": "dejemos",
+        "vosotros/as": "dejéis",
+        "ellos/ellas/ustedes": "dejen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "dejara",
+        "tú": "dejaras",
+        "él/ella/usted": "dejara",
+        "nosotros/as": "dejáramos",
+        "vosotros/as": "dejarais",
+        "ellos/ellas/ustedes": "dejaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "deja",
+        "él/ella/usted": "deje",
+        "nosotros/as": "dejemos",
+        "vosotros/as": "dejad",
+        "ellos/ellas/ustedes": "dejen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no dejes",
+        "él/ella/usted": "no deje",
+        "nosotros/as": "no dejemos",
+        "vosotros/as": "no dejéis",
+        "ellos/ellas/ustedes": "no dejen"
+      }
+    }
+  },
+  {
+    "infinitive": "seguir",
+    "translation": "to follow",
+    "conjugations": {
+      "Present": {
+        "yo": "sigo",
+        "tú": "sigues",
+        "él/ella/usted": "sigue",
+        "nosotros/as": "seguimos",
+        "vosotros/as": "seguís",
+        "ellos/ellas/ustedes": "siguen"
+      },
+      "Preterite": {
+        "yo": "seguí",
+        "tú": "seguiste",
+        "él/ella/usted": "siguió",
+        "nosotros/as": "seguimos",
+        "vosotros/as": "seguisteis",
+        "ellos/ellas/ustedes": "siguieron"
+      },
+      "Imperfect": {
+        "yo": "seguía",
+        "tú": "seguías",
+        "él/ella/usted": "seguía",
+        "nosotros/as": "seguíamos",
+        "vosotros/as": "seguíais",
+        "ellos/ellas/ustedes": "seguían"
+      },
+      "Future": {
+        "yo": "seguiré",
+        "tú": "seguirás",
+        "él/ella/usted": "seguirá",
+        "nosotros/as": "seguiremos",
+        "vosotros/as": "seguiréis",
+        "ellos/ellas/ustedes": "seguirán"
+      },
+      "Conditional": {
+        "yo": "seguiría",
+        "tú": "seguirías",
+        "él/ella/usted": "seguiría",
+        "nosotros/as": "seguiríamos",
+        "vosotros/as": "seguiríais",
+        "ellos/ellas/ustedes": "seguirían"
+      },
+      "Present Subjunctive": {
+        "yo": "siga",
+        "tú": "sigas",
+        "él/ella/usted": "siga",
+        "nosotros/as": "sigamos",
+        "vosotros/as": "sigáis",
+        "ellos/ellas/ustedes": "sigan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "siguiera",
+        "tú": "siguieras",
+        "él/ella/usted": "siguiera",
+        "nosotros/as": "siguiéramos",
+        "vosotros/as": "siguierais",
+        "ellos/ellas/ustedes": "siguieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "sigue",
+        "él/ella/usted": "siga",
+        "nosotros/as": "sigamos",
+        "vosotros/as": "seguid",
+        "ellos/ellas/ustedes": "sigan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no sigas",
+        "él/ella/usted": "no siga",
+        "nosotros/as": "no sigamos",
+        "vosotros/as": "no sigáis",
+        "ellos/ellas/ustedes": "no sigan"
+      }
+    }
+  },
+  {
+    "infinitive": "encontrar",
+    "translation": "to find",
+    "conjugations": {
+      "Present": {
+        "yo": "encuentro",
+        "tú": "encuentras",
+        "él/ella/usted": "encuentra",
+        "nosotros/as": "encontramos",
+        "vosotros/as": "encontráis",
+        "ellos/ellas/ustedes": "encuentran"
+      },
+      "Preterite": {
+        "yo": "encontré",
+        "tú": "encontraste",
+        "él/ella/usted": "encontró",
+        "nosotros/as": "encontramos",
+        "vosotros/as": "encontrasteis",
+        "ellos/ellas/ustedes": "encontraron"
+      },
+      "Imperfect": {
+        "yo": "encontraba",
+        "tú": "encontrabas",
+        "él/ella/usted": "encontraba",
+        "nosotros/as": "encontrábamos",
+        "vosotros/as": "encontrabais",
+        "ellos/ellas/ustedes": "encontraban"
+      },
+      "Future": {
+        "yo": "encontraré",
+        "tú": "encontrarás",
+        "él/ella/usted": "encontrará",
+        "nosotros/as": "encontraremos",
+        "vosotros/as": "encontraréis",
+        "ellos/ellas/ustedes": "encontrarán"
+      },
+      "Conditional": {
+        "yo": "encontraría",
+        "tú": "encontrarías",
+        "él/ella/usted": "encontraría",
+        "nosotros/as": "encontraríamos",
+        "vosotros/as": "encontraríais",
+        "ellos/ellas/ustedes": "encontrarían"
+      },
+      "Present Subjunctive": {
+        "yo": "encuentre",
+        "tú": "encuentres",
+        "él/ella/usted": "encuentre",
+        "nosotros/as": "encontremos",
+        "vosotros/as": "encontréis",
+        "ellos/ellas/ustedes": "encuentren"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "encontrara",
+        "tú": "encontraras",
+        "él/ella/usted": "encontrara",
+        "nosotros/as": "encontráramos",
+        "vosotros/as": "encontrarais",
+        "ellos/ellas/ustedes": "encontraran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "encuentra",
+        "él/ella/usted": "encuentre",
+        "nosotros/as": "encontremos",
+        "vosotros/as": "encontrad",
+        "ellos/ellas/ustedes": "encuentren"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no encuentres",
+        "él/ella/usted": "no encuentre",
+        "nosotros/as": "no encontremos",
+        "vosotros/as": "no encontréis",
+        "ellos/ellas/ustedes": "no encuentren"
+      }
+    }
+  },
+  {
+    "infinitive": "llamar",
+    "translation": "to call",
+    "conjugations": {
+      "Present": {
+        "yo": "llamo",
+        "tú": "llamas",
+        "él/ella/usted": "llama",
+        "nosotros/as": "llamamos",
+        "vosotros/as": "llamáis",
+        "ellos/ellas/ustedes": "llaman"
+      },
+      "Preterite": {
+        "yo": "llamé",
+        "tú": "llamaste",
+        "él/ella/usted": "llamó",
+        "nosotros/as": "llamamos",
+        "vosotros/as": "llamasteis",
+        "ellos/ellas/ustedes": "llamaron"
+      },
+      "Imperfect": {
+        "yo": "llamaba",
+        "tú": "llamabas",
+        "él/ella/usted": "llamaba",
+        "nosotros/as": "llamábamos",
+        "vosotros/as": "llamabais",
+        "ellos/ellas/ustedes": "llamaban"
+      },
+      "Future": {
+        "yo": "llamaré",
+        "tú": "llamarás",
+        "él/ella/usted": "llamará",
+        "nosotros/as": "llamaremos",
+        "vosotros/as": "llamaréis",
+        "ellos/ellas/ustedes": "llamarán"
+      },
+      "Conditional": {
+        "yo": "llamaría",
+        "tú": "llamarías",
+        "él/ella/usted": "llamaría",
+        "nosotros/as": "llamaríamos",
+        "vosotros/as": "llamaríais",
+        "ellos/ellas/ustedes": "llamarían"
+      },
+      "Present Subjunctive": {
+        "yo": "llame",
+        "tú": "llames",
+        "él/ella/usted": "llame",
+        "nosotros/as": "llamemos",
+        "vosotros/as": "llaméis",
+        "ellos/ellas/ustedes": "llamen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "llamara",
+        "tú": "llamaras",
+        "él/ella/usted": "llamara",
+        "nosotros/as": "llamáramos",
+        "vosotros/as": "llamarais",
+        "ellos/ellas/ustedes": "llamaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "llama",
+        "él/ella/usted": "llame",
+        "nosotros/as": "llamemos",
+        "vosotros/as": "llamad",
+        "ellos/ellas/ustedes": "llamen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no llames",
+        "él/ella/usted": "no llame",
+        "nosotros/as": "no llamemos",
+        "vosotros/as": "no llaméis",
+        "ellos/ellas/ustedes": "no llamen"
+      }
+    }
+  },
+  {
+    "infinitive": "venir",
+    "translation": "to come",
+    "conjugations": {
+      "Present": {
+        "yo": "vengo",
+        "tú": "vienes",
+        "él/ella/usted": "viene",
+        "nosotros/as": "venimos",
+        "vosotros/as": "venís",
+        "ellos/ellas/ustedes": "vienen"
+      },
+      "Preterite": {
+        "yo": "vine",
+        "tú": "viniste",
+        "él/ella/usted": "vino",
+        "nosotros/as": "vinimos",
+        "vosotros/as": "vinisteis",
+        "ellos/ellas/ustedes": "vinieron"
+      },
+      "Imperfect": {
+        "yo": "venía",
+        "tú": "venías",
+        "él/ella/usted": "venía",
+        "nosotros/as": "veníamos",
+        "vosotros/as": "veníais",
+        "ellos/ellas/ustedes": "venían"
+      },
+      "Future": {
+        "yo": "vendré",
+        "tú": "vendrás",
+        "él/ella/usted": "vendrá",
+        "nosotros/as": "vendremos",
+        "vosotros/as": "vendréis",
+        "ellos/ellas/ustedes": "vendrán"
+      },
+      "Conditional": {
+        "yo": "vendría",
+        "tú": "vendrías",
+        "él/ella/usted": "vendría",
+        "nosotros/as": "vendríamos",
+        "vosotros/as": "vendríais",
+        "ellos/ellas/ustedes": "vendrían"
+      },
+      "Present Subjunctive": {
+        "yo": "venga",
+        "tú": "vengas",
+        "él/ella/usted": "venga",
+        "nosotros/as": "vengamos",
+        "vosotros/as": "vengáis",
+        "ellos/ellas/ustedes": "vengan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "viniera",
+        "tú": "vinieras",
+        "él/ella/usted": "viniera",
+        "nosotros/as": "viniéramos",
+        "vosotros/as": "vinierais",
+        "ellos/ellas/ustedes": "vinieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "ven",
+        "él/ella/usted": "venga",
+        "nosotros/as": "vengamos",
+        "vosotros/as": "venid",
+        "ellos/ellas/ustedes": "vengan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no vengas",
+        "él/ella/usted": "no venga",
+        "nosotros/as": "no vengamos",
+        "vosotros/as": "no vengáis",
+        "ellos/ellas/ustedes": "no vengan"
+      }
+    }
+  },
+  {
+    "infinitive": "pensar",
+    "translation": "to think",
+    "conjugations": {
+      "Present": {
+        "yo": "pienso",
+        "tú": "piensas",
+        "él/ella/usted": "piensa",
+        "nosotros/as": "pensamos",
+        "vosotros/as": "pensáis",
+        "ellos/ellas/ustedes": "piensan"
+      },
+      "Preterite": {
+        "yo": "pensé",
+        "tú": "pensaste",
+        "él/ella/usted": "pensó",
+        "nosotros/as": "pensamos",
+        "vosotros/as": "pensasteis",
+        "ellos/ellas/ustedes": "pensaron"
+      },
+      "Imperfect": {
+        "yo": "pensaba",
+        "tú": "pensabas",
+        "él/ella/usted": "pensaba",
+        "nosotros/as": "pensábamos",
+        "vosotros/as": "pensabais",
+        "ellos/ellas/ustedes": "pensaban"
+      },
+      "Future": {
+        "yo": "pensaré",
+        "tú": "pensarás",
+        "él/ella/usted": "pensará",
+        "nosotros/as": "pensaremos",
+        "vosotros/as": "pensaréis",
+        "ellos/ellas/ustedes": "pensarán"
+      },
+      "Conditional": {
+        "yo": "pensaría",
+        "tú": "pensarías",
+        "él/ella/usted": "pensaría",
+        "nosotros/as": "pensaríamos",
+        "vosotros/as": "pensaríais",
+        "ellos/ellas/ustedes": "pensarían"
+      },
+      "Present Subjunctive": {
+        "yo": "piense",
+        "tú": "pienses",
+        "él/ella/usted": "piense",
+        "nosotros/as": "pensemos",
+        "vosotros/as": "penséis",
+        "ellos/ellas/ustedes": "piensen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "pensara",
+        "tú": "pensaras",
+        "él/ella/usted": "pensara",
+        "nosotros/as": "pensáramos",
+        "vosotros/as": "pensarais",
+        "ellos/ellas/ustedes": "pensaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "piensa",
+        "él/ella/usted": "piense",
+        "nosotros/as": "pensemos",
+        "vosotros/as": "pensad",
+        "ellos/ellas/ustedes": "piensen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no pienses",
+        "él/ella/usted": "no piense",
+        "nosotros/as": "no pensemos",
+        "vosotros/as": "no penséis",
+        "ellos/ellas/ustedes": "no piensen"
+      }
+    }
+  },
+  {
+    "infinitive": "salir",
+    "translation": "to go out/leave",
+    "conjugations": {
+      "Present": {
+        "yo": "salgo",
+        "tú": "sales",
+        "él/ella/usted": "sale",
+        "nosotros/as": "salimos",
+        "vosotros/as": "salís",
+        "ellos/ellas/ustedes": "salen"
+      },
+      "Preterite": {
+        "yo": "salí",
+        "tú": "saliste",
+        "él/ella/usted": "salió",
+        "nosotros/as": "salimos",
+        "vosotros/as": "salisteis",
+        "ellos/ellas/ustedes": "salieron"
+      },
+      "Imperfect": {
+        "yo": "salía",
+        "tú": "salías",
+        "él/ella/usted": "salía",
+        "nosotros/as": "salíamos",
+        "vosotros/as": "salíais",
+        "ellos/ellas/ustedes": "salían"
+      },
+      "Future": {
+        "yo": "saldré",
+        "tú": "saldrás",
+        "él/ella/usted": "saldrá",
+        "nosotros/as": "saldremos",
+        "vosotros/as": "saldréis",
+        "ellos/ellas/ustedes": "saldrán"
+      },
+      "Conditional": {
+        "yo": "saldría",
+        "tú": "saldrías",
+        "él/ella/usted": "saldría",
+        "nosotros/as": "saldríamos",
+        "vosotros/as": "saldríais",
+        "ellos/ellas/ustedes": "saldrían"
+      },
+      "Present Subjunctive": {
+        "yo": "salga",
+        "tú": "salgas",
+        "él/ella/usted": "salga",
+        "nosotros/as": "salgamos",
+        "vosotros/as": "salgáis",
+        "ellos/ellas/ustedes": "salgan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "saliera",
+        "tú": "salieras",
+        "él/ella/usted": "saliera",
+        "nosotros/as": "saliéramos",
+        "vosotros/as": "salierais",
+        "ellos/ellas/ustedes": "salieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "sal",
+        "él/ella/usted": "salga",
+        "nosotros/as": "salgamos",
+        "vosotros/as": "salid",
+        "ellos/ellas/ustedes": "salgan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no salgas",
+        "él/ella/usted": "no salga",
+        "nosotros/as": "no salgamos",
+        "vosotros/as": "no salgáis",
+        "ellos/ellas/ustedes": "no salgan"
+      }
+    }
+  },
+  {
+    "infinitive": "volver",
+    "translation": "to return",
+    "conjugations": {
+      "Present": {
+        "yo": "vuelvo",
+        "tú": "vuelves",
+        "él/ella/usted": "vuelve",
+        "nosotros/as": "volvemos",
+        "vosotros/as": "volvéis",
+        "ellos/ellas/ustedes": "vuelven"
+      },
+      "Preterite": {
+        "yo": "volví",
+        "tú": "volviste",
+        "él/ella/usted": "volvió",
+        "nosotros/as": "volvimos",
+        "vosotros/as": "volvisteis",
+        "ellos/ellas/ustedes": "volvieron"
+      },
+      "Imperfect": {
+        "yo": "volvía",
+        "tú": "volvías",
+        "él/ella/usted": "volvía",
+        "nosotros/as": "volvíamos",
+        "vosotros/as": "volvíais",
+        "ellos/ellas/ustedes": "volvían"
+      },
+      "Future": {
+        "yo": "volveré",
+        "tú": "volverás",
+        "él/ella/usted": "volverá",
+        "nosotros/as": "volveremos",
+        "vosotros/as": "volveréis",
+        "ellos/ellas/ustedes": "volverán"
+      },
+      "Conditional": {
+        "yo": "volvería",
+        "tú": "volverías",
+        "él/ella/usted": "volvería",
+        "nosotros/as": "volveríamos",
+        "vosotros/as": "volveríais",
+        "ellos/ellas/ustedes": "volverían"
+      },
+      "Present Subjunctive": {
+        "yo": "vuelva",
+        "tú": "vuelvas",
+        "él/ella/usted": "vuelva",
+        "nosotros/as": "volvamos",
+        "vosotros/as": "volváis",
+        "ellos/ellas/ustedes": "vuelvan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "volviera",
+        "tú": "volvieras",
+        "él/ella/usted": "volviera",
+        "nosotros/as": "volviéramos",
+        "vosotros/as": "volvierais",
+        "ellos/ellas/ustedes": "volvieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "vuelve",
+        "él/ella/usted": "vuelva",
+        "nosotros/as": "volvamos",
+        "vosotros/as": "volved",
+        "ellos/ellas/ustedes": "vuelvan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no vuelvas",
+        "él/ella/usted": "no vuelva",
+        "nosotros/as": "no volvamos",
+        "vosotros/as": "no volváis",
+        "ellos/ellas/ustedes": "no vuelvan"
+      }
+    }
+  },
+  {
+    "infinitive": "tomar",
+    "translation": "to take/drink",
+    "conjugations": {
+      "Present": {
+        "yo": "tomo",
+        "tú": "tomas",
+        "él/ella/usted": "toma",
+        "nosotros/as": "tomamos",
+        "vosotros/as": "tomáis",
+        "ellos/ellas/ustedes": "toman"
+      },
+      "Preterite": {
+        "yo": "tomé",
+        "tú": "tomaste",
+        "él/ella/usted": "tomó",
+        "nosotros/as": "tomamos",
+        "vosotros/as": "tomasteis",
+        "ellos/ellas/ustedes": "tomaron"
+      },
+      "Imperfect": {
+        "yo": "tomaba",
+        "tú": "tomabas",
+        "él/ella/usted": "tomaba",
+        "nosotros/as": "tomábamos",
+        "vosotros/as": "tomabais",
+        "ellos/ellas/ustedes": "tomaban"
+      },
+      "Future": {
+        "yo": "tomaré",
+        "tú": "tomarás",
+        "él/ella/usted": "tomará",
+        "nosotros/as": "tomaremos",
+        "vosotros/as": "tomaréis",
+        "ellos/ellas/ustedes": "tomarán"
+      },
+      "Conditional": {
+        "yo": "tomaría",
+        "tú": "tomarías",
+        "él/ella/usted": "tomaría",
+        "nosotros/as": "tomaríamos",
+        "vosotros/as": "tomaríais",
+        "ellos/ellas/ustedes": "tomarían"
+      },
+      "Present Subjunctive": {
+        "yo": "tome",
+        "tú": "tomes",
+        "él/ella/usted": "tome",
+        "nosotros/as": "tomemos",
+        "vosotros/as": "toméis",
+        "ellos/ellas/ustedes": "tomen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "tomara",
+        "tú": "tomaras",
+        "él/ella/usted": "tomara",
+        "nosotros/as": "tomáramos",
+        "vosotros/as": "tomarais",
+        "ellos/ellas/ustedes": "tomaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "toma",
+        "él/ella/usted": "tome",
+        "nosotros/as": "tomemos",
+        "vosotros/as": "tomad",
+        "ellos/ellas/ustedes": "tomen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no tomes",
+        "él/ella/usted": "no tome",
+        "nosotros/as": "no tomemos",
+        "vosotros/as": "no toméis",
+        "ellos/ellas/ustedes": "no tomen"
+      }
+    }
+  },
+  {
+    "infinitive": "conocer",
+    "translation": "to know/meet",
+    "conjugations": {
+      "Present": {
+        "yo": "conozco",
+        "tú": "conoces",
+        "él/ella/usted": "conoce",
+        "nosotros/as": "conocemos",
+        "vosotros/as": "conocéis",
+        "ellos/ellas/ustedes": "conocen"
+      },
+      "Preterite": {
+        "yo": "conocí",
+        "tú": "conociste",
+        "él/ella/usted": "conoció",
+        "nosotros/as": "conocimos",
+        "vosotros/as": "conocisteis",
+        "ellos/ellas/ustedes": "conocieron"
+      },
+      "Imperfect": {
+        "yo": "conocía",
+        "tú": "conocías",
+        "él/ella/usted": "conocía",
+        "nosotros/as": "conocíamos",
+        "vosotros/as": "conocíais",
+        "ellos/ellas/ustedes": "conocían"
+      },
+      "Future": {
+        "yo": "conoceré",
+        "tú": "conocerás",
+        "él/ella/usted": "conocerá",
+        "nosotros/as": "conoceremos",
+        "vosotros/as": "conoceréis",
+        "ellos/ellas/ustedes": "conocerán"
+      },
+      "Conditional": {
+        "yo": "conocería",
+        "tú": "conocerías",
+        "él/ella/usted": "conocería",
+        "nosotros/as": "conoceríamos",
+        "vosotros/as": "conoceríais",
+        "ellos/ellas/ustedes": "conocerían"
+      },
+      "Present Subjunctive": {
+        "yo": "conozca",
+        "tú": "conozcas",
+        "él/ella/usted": "conozca",
+        "nosotros/as": "conozcamos",
+        "vosotros/as": "conozcáis",
+        "ellos/ellas/ustedes": "conozcan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "conociera",
+        "tú": "conocieras",
+        "él/ella/usted": "conociera",
+        "nosotros/as": "conociéramos",
+        "vosotros/as": "conocierais",
+        "ellos/ellas/ustedes": "conocieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "conoce",
+        "él/ella/usted": "conozca",
+        "nosotros/as": "conozcamos",
+        "vosotros/as": "conoced",
+        "ellos/ellas/ustedes": "conozcan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no conozcas",
+        "él/ella/usted": "no conozca",
+        "nosotros/as": "no conozcamos",
+        "vosotros/as": "no conozcáis",
+        "ellos/ellas/ustedes": "no conozcan"
+      }
+    }
+  },
+  {
+    "infinitive": "vivir",
+    "translation": "to live",
+    "conjugations": {
+      "Present": {
+        "yo": "vivo",
+        "tú": "vives",
+        "él/ella/usted": "vive",
+        "nosotros/as": "vivimos",
+        "vosotros/as": "vivís",
+        "ellos/ellas/ustedes": "viven"
+      },
+      "Preterite": {
+        "yo": "viví",
+        "tú": "viviste",
+        "él/ella/usted": "vivió",
+        "nosotros/as": "vivimos",
+        "vosotros/as": "vivisteis",
+        "ellos/ellas/ustedes": "vivieron"
+      },
+      "Imperfect": {
+        "yo": "vivía",
+        "tú": "vivías",
+        "él/ella/usted": "vivía",
+        "nosotros/as": "vivíamos",
+        "vosotros/as": "vivíais",
+        "ellos/ellas/ustedes": "vivían"
+      },
+      "Future": {
+        "yo": "viviré",
+        "tú": "vivirás",
+        "él/ella/usted": "vivirá",
+        "nosotros/as": "viviremos",
+        "vosotros/as": "viviréis",
+        "ellos/ellas/ustedes": "vivirán"
+      },
+      "Conditional": {
+        "yo": "viviría",
+        "tú": "vivirías",
+        "él/ella/usted": "viviría",
+        "nosotros/as": "viviríamos",
+        "vosotros/as": "viviríais",
+        "ellos/ellas/ustedes": "vivirían"
+      },
+      "Present Subjunctive": {
+        "yo": "viva",
+        "tú": "vivas",
+        "él/ella/usted": "viva",
+        "nosotros/as": "vivamos",
+        "vosotros/as": "viváis",
+        "ellos/ellas/ustedes": "vivan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "viviera",
+        "tú": "vivieras",
+        "él/ella/usted": "viviera",
+        "nosotros/as": "viviéramos",
+        "vosotros/as": "vivierais",
+        "ellos/ellas/ustedes": "vivieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "vive",
+        "él/ella/usted": "viva",
+        "nosotros/as": "vivamos",
+        "vosotros/as": "vivid",
+        "ellos/ellas/ustedes": "vivan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no vivas",
+        "él/ella/usted": "no viva",
+        "nosotros/as": "no vivamos",
+        "vosotros/as": "no viváis",
+        "ellos/ellas/ustedes": "no vivan"
+      }
+    }
+  },
+  {
+    "infinitive": "sentir",
+    "translation": "to feel",
+    "conjugations": {
+      "Present": {
+        "yo": "siento",
+        "tú": "sientes",
+        "él/ella/usted": "siente",
+        "nosotros/as": "sentimos",
+        "vosotros/as": "sentís",
+        "ellos/ellas/ustedes": "sienten"
+      },
+      "Preterite": {
+        "yo": "sentí",
+        "tú": "sentiste",
+        "él/ella/usted": "sintió",
+        "nosotros/as": "sentimos",
+        "vosotros/as": "sentisteis",
+        "ellos/ellas/ustedes": "sintieron"
+      },
+      "Imperfect": {
+        "yo": "sentía",
+        "tú": "sentías",
+        "él/ella/usted": "sentía",
+        "nosotros/as": "sentíamos",
+        "vosotros/as": "sentíais",
+        "ellos/ellas/ustedes": "sentían"
+      },
+      "Future": {
+        "yo": "sentiré",
+        "tú": "sentirás",
+        "él/ella/usted": "sentirá",
+        "nosotros/as": "sentiremos",
+        "vosotros/as": "sentiréis",
+        "ellos/ellas/ustedes": "sentirán"
+      },
+      "Conditional": {
+        "yo": "sentiría",
+        "tú": "sentirías",
+        "él/ella/usted": "sentiría",
+        "nosotros/as": "sentiríamos",
+        "vosotros/as": "sentiríais",
+        "ellos/ellas/ustedes": "sentirían"
+      },
+      "Present Subjunctive": {
+        "yo": "sienta",
+        "tú": "sientas",
+        "él/ella/usted": "sienta",
+        "nosotros/as": "sintamos",
+        "vosotros/as": "sintáis",
+        "ellos/ellas/ustedes": "sientan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "sintiera",
+        "tú": "sintieras",
+        "él/ella/usted": "sintiera",
+        "nosotros/as": "sintiéramos",
+        "vosotros/as": "sintierais",
+        "ellos/ellas/ustedes": "sintieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "siente",
+        "él/ella/usted": "sienta",
+        "nosotros/as": "sintamos",
+        "vosotros/as": "sentid",
+        "ellos/ellas/ustedes": "sientan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no sientas",
+        "él/ella/usted": "no sienta",
+        "nosotros/as": "no sintamos",
+        "vosotros/as": "no sintáis",
+        "ellos/ellas/ustedes": "no sientan"
+      }
+    }
+  },
+  {
+    "infinitive": "tratar",
+    "translation": "to try/treat",
+    "conjugations": {
+      "Present": {
+        "yo": "trato",
+        "tú": "tratas",
+        "él/ella/usted": "trata",
+        "nosotros/as": "tratamos",
+        "vosotros/as": "tratáis",
+        "ellos/ellas/ustedes": "tratan"
+      },
+      "Preterite": {
+        "yo": "traté",
+        "tú": "trataste",
+        "él/ella/usted": "trató",
+        "nosotros/as": "tratamos",
+        "vosotros/as": "tratasteis",
+        "ellos/ellas/ustedes": "trataron"
+      },
+      "Imperfect": {
+        "yo": "trataba",
+        "tú": "tratabas",
+        "él/ella/usted": "trataba",
+        "nosotros/as": "tratábamos",
+        "vosotros/as": "tratabais",
+        "ellos/ellas/ustedes": "trataban"
+      },
+      "Future": {
+        "yo": "trataré",
+        "tú": "tratarás",
+        "él/ella/usted": "tratará",
+        "nosotros/as": "trataremos",
+        "vosotros/as": "trataréis",
+        "ellos/ellas/ustedes": "tratarán"
+      },
+      "Conditional": {
+        "yo": "trataría",
+        "tú": "tratarías",
+        "él/ella/usted": "trataría",
+        "nosotros/as": "trataríamos",
+        "vosotros/as": "trataríais",
+        "ellos/ellas/ustedes": "tratarían"
+      },
+      "Present Subjunctive": {
+        "yo": "trate",
+        "tú": "trates",
+        "él/ella/usted": "trate",
+        "nosotros/as": "tratemos",
+        "vosotros/as": "tratéis",
+        "ellos/ellas/ustedes": "traten"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "tratara",
+        "tú": "trataras",
+        "él/ella/usted": "tratara",
+        "nosotros/as": "tratáramos",
+        "vosotros/as": "tratarais",
+        "ellos/ellas/ustedes": "trataran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "trata",
+        "él/ella/usted": "trate",
+        "nosotros/as": "tratemos",
+        "vosotros/as": "tratad",
+        "ellos/ellas/ustedes": "traten"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no trates",
+        "él/ella/usted": "no trate",
+        "nosotros/as": "no tratemos",
+        "vosotros/as": "no tratéis",
+        "ellos/ellas/ustedes": "no traten"
+      }
+    }
+  },
+  {
+    "infinitive": "mirar",
+    "translation": "to look at",
+    "conjugations": {
+      "Present": {
+        "yo": "miro",
+        "tú": "miras",
+        "él/ella/usted": "mira",
+        "nosotros/as": "miramos",
+        "vosotros/as": "miráis",
+        "ellos/ellas/ustedes": "miran"
+      },
+      "Preterite": {
+        "yo": "miré",
+        "tú": "miraste",
+        "él/ella/usted": "miró",
+        "nosotros/as": "miramos",
+        "vosotros/as": "mirasteis",
+        "ellos/ellas/ustedes": "miraron"
+      },
+      "Imperfect": {
+        "yo": "miraba",
+        "tú": "mirabas",
+        "él/ella/usted": "miraba",
+        "nosotros/as": "mirábamos",
+        "vosotros/as": "mirabais",
+        "ellos/ellas/ustedes": "miraban"
+      },
+      "Future": {
+        "yo": "miraré",
+        "tú": "mirarás",
+        "él/ella/usted": "mirará",
+        "nosotros/as": "miraremos",
+        "vosotros/as": "miraréis",
+        "ellos/ellas/ustedes": "mirarán"
+      },
+      "Conditional": {
+        "yo": "miraría",
+        "tú": "mirarías",
+        "él/ella/usted": "miraría",
+        "nosotros/as": "miraríamos",
+        "vosotros/as": "miraríais",
+        "ellos/ellas/ustedes": "mirarían"
+      },
+      "Present Subjunctive": {
+        "yo": "mire",
+        "tú": "mires",
+        "él/ella/usted": "mire",
+        "nosotros/as": "miremos",
+        "vosotros/as": "miréis",
+        "ellos/ellas/ustedes": "miren"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "mirara",
+        "tú": "miraras",
+        "él/ella/usted": "mirara",
+        "nosotros/as": "miráramos",
+        "vosotros/as": "mirarais",
+        "ellos/ellas/ustedes": "miraran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "mira",
+        "él/ella/usted": "mire",
+        "nosotros/as": "miremos",
+        "vosotros/as": "mirad",
+        "ellos/ellas/ustedes": "miren"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no mires",
+        "él/ella/usted": "no mire",
+        "nosotros/as": "no miremos",
+        "vosotros/as": "no miréis",
+        "ellos/ellas/ustedes": "no miren"
+      }
+    }
+  },
+  {
+    "infinitive": "contar",
+    "translation": "to count/tell",
+    "conjugations": {
+      "Present": {
+        "yo": "cuento",
+        "tú": "cuentas",
+        "él/ella/usted": "cuenta",
+        "nosotros/as": "contamos",
+        "vosotros/as": "contáis",
+        "ellos/ellas/ustedes": "cuentan"
+      },
+      "Preterite": {
+        "yo": "conté",
+        "tú": "contaste",
+        "él/ella/usted": "contó",
+        "nosotros/as": "contamos",
+        "vosotros/as": "contasteis",
+        "ellos/ellas/ustedes": "contaron"
+      },
+      "Imperfect": {
+        "yo": "contaba",
+        "tú": "contabas",
+        "él/ella/usted": "contaba",
+        "nosotros/as": "contábamos",
+        "vosotros/as": "contabais",
+        "ellos/ellas/ustedes": "contaban"
+      },
+      "Future": {
+        "yo": "contaré",
+        "tú": "contarás",
+        "él/ella/usted": "contará",
+        "nosotros/as": "contaremos",
+        "vosotros/as": "contaréis",
+        "ellos/ellas/ustedes": "contarán"
+      },
+      "Conditional": {
+        "yo": "contaría",
+        "tú": "contarías",
+        "él/ella/usted": "contaría",
+        "nosotros/as": "contaríamos",
+        "vosotros/as": "contaríais",
+        "ellos/ellas/ustedes": "contarían"
+      },
+      "Present Subjunctive": {
+        "yo": "cuente",
+        "tú": "cuentes",
+        "él/ella/usted": "cuente",
+        "nosotros/as": "contemos",
+        "vosotros/as": "contéis",
+        "ellos/ellas/ustedes": "cuenten"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "contara",
+        "tú": "contaras",
+        "él/ella/usted": "contara",
+        "nosotros/as": "contáramos",
+        "vosotros/as": "contarais",
+        "ellos/ellas/ustedes": "contaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "cuenta",
+        "él/ella/usted": "cuente",
+        "nosotros/as": "contemos",
+        "vosotros/as": "contad",
+        "ellos/ellas/ustedes": "cuenten"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no cuentes",
+        "él/ella/usted": "no cuente",
+        "nosotros/as": "no contemos",
+        "vosotros/as": "no contéis",
+        "ellos/ellas/ustedes": "no cuenten"
+      }
+    }
+  },
+  {
+    "infinitive": "empezar",
+    "translation": "to begin",
+    "conjugations": {
+      "Present": {
+        "yo": "empiezo",
+        "tú": "empiezas",
+        "él/ella/usted": "empieza",
+        "nosotros/as": "empezamos",
+        "vosotros/as": "empezáis",
+        "ellos/ellas/ustedes": "empiezan"
+      },
+      "Preterite": {
+        "yo": "empecé",
+        "tú": "empezaste",
+        "él/ella/usted": "empezó",
+        "nosotros/as": "empezamos",
+        "vosotros/as": "empezasteis",
+        "ellos/ellas/ustedes": "empezaron"
+      },
+      "Imperfect": {
+        "yo": "empezaba",
+        "tú": "empezabas",
+        "él/ella/usted": "empezaba",
+        "nosotros/as": "empezábamos",
+        "vosotros/as": "empezabais",
+        "ellos/ellas/ustedes": "empezaban"
+      },
+      "Future": {
+        "yo": "empezaré",
+        "tú": "empezarás",
+        "él/ella/usted": "empezará",
+        "nosotros/as": "empezaremos",
+        "vosotros/as": "empezaréis",
+        "ellos/ellas/ustedes": "empezarán"
+      },
+      "Conditional": {
+        "yo": "empezaría",
+        "tú": "empezarías",
+        "él/ella/usted": "empezaría",
+        "nosotros/as": "empezaríamos",
+        "vosotros/as": "empezaríais",
+        "ellos/ellas/ustedes": "empezarían"
+      },
+      "Present Subjunctive": {
+        "yo": "empiece",
+        "tú": "empieces",
+        "él/ella/usted": "empiece",
+        "nosotros/as": "empecemos",
+        "vosotros/as": "empecéis",
+        "ellos/ellas/ustedes": "empiecen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "empezara",
+        "tú": "empezaras",
+        "él/ella/usted": "empezara",
+        "nosotros/as": "empezáramos",
+        "vosotros/as": "empezarais",
+        "ellos/ellas/ustedes": "empezaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "empieza",
+        "él/ella/usted": "empiece",
+        "nosotros/as": "empecemos",
+        "vosotros/as": "empezad",
+        "ellos/ellas/ustedes": "empiecen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no empieces",
+        "él/ella/usted": "no empiece",
+        "nosotros/as": "no empecemos",
+        "vosotros/as": "no empecéis",
+        "ellos/ellas/ustedes": "no empiecen"
+      }
+    }
+  },
+  {
+    "infinitive": "esperar",
+    "translation": "to wait/hope",
+    "conjugations": {
+      "Present": {
+        "yo": "espero",
+        "tú": "esperas",
+        "él/ella/usted": "espera",
+        "nosotros/as": "esperamos",
+        "vosotros/as": "esperáis",
+        "ellos/ellas/ustedes": "esperan"
+      },
+      "Preterite": {
+        "yo": "esperé",
+        "tú": "esperaste",
+        "él/ella/usted": "esperó",
+        "nosotros/as": "esperamos",
+        "vosotros/as": "esperasteis",
+        "ellos/ellas/ustedes": "esperaron"
+      },
+      "Imperfect": {
+        "yo": "esperaba",
+        "tú": "esperabas",
+        "él/ella/usted": "esperaba",
+        "nosotros/as": "esperábamos",
+        "vosotros/as": "esperabais",
+        "ellos/ellas/ustedes": "esperaban"
+      },
+      "Future": {
+        "yo": "esperaré",
+        "tú": "esperarás",
+        "él/ella/usted": "esperará",
+        "nosotros/as": "esperaremos",
+        "vosotros/as": "esperaréis",
+        "ellos/ellas/ustedes": "esperarán"
+      },
+      "Conditional": {
+        "yo": "esperaría",
+        "tú": "esperarías",
+        "él/ella/usted": "esperaría",
+        "nosotros/as": "esperaríamos",
+        "vosotros/as": "esperaríais",
+        "ellos/ellas/ustedes": "esperarían"
+      },
+      "Present Subjunctive": {
+        "yo": "espere",
+        "tú": "esperes",
+        "él/ella/usted": "espere",
+        "nosotros/as": "esperemos",
+        "vosotros/as": "esperéis",
+        "ellos/ellas/ustedes": "esperen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "esperara",
+        "tú": "esperaras",
+        "él/ella/usted": "esperara",
+        "nosotros/as": "esperáramos",
+        "vosotros/as": "esperarais",
+        "ellos/ellas/ustedes": "esperaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "espera",
+        "él/ella/usted": "espere",
+        "nosotros/as": "esperemos",
+        "vosotros/as": "esperad",
+        "ellos/ellas/ustedes": "esperen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no esperes",
+        "él/ella/usted": "no espere",
+        "nosotros/as": "no esperemos",
+        "vosotros/as": "no esperéis",
+        "ellos/ellas/ustedes": "no esperen"
+      }
+    }
+  },
+  {
+    "infinitive": "buscar",
+    "translation": "to look for",
+    "conjugations": {
+      "Present": {
+        "yo": "busco",
+        "tú": "buscas",
+        "él/ella/usted": "busca",
+        "nosotros/as": "buscamos",
+        "vosotros/as": "buscáis",
+        "ellos/ellas/ustedes": "buscan"
+      },
+      "Preterite": {
+        "yo": "busqué",
+        "tú": "buscaste",
+        "él/ella/usted": "buscó",
+        "nosotros/as": "buscamos",
+        "vosotros/as": "buscasteis",
+        "ellos/ellas/ustedes": "buscaron"
+      },
+      "Imperfect": {
+        "yo": "buscaba",
+        "tú": "buscabas",
+        "él/ella/usted": "buscaba",
+        "nosotros/as": "buscábamos",
+        "vosotros/as": "buscabais",
+        "ellos/ellas/ustedes": "buscaban"
+      },
+      "Future": {
+        "yo": "buscaré",
+        "tú": "buscarás",
+        "él/ella/usted": "buscará",
+        "nosotros/as": "buscaremos",
+        "vosotros/as": "buscaréis",
+        "ellos/ellas/ustedes": "buscarán"
+      },
+      "Conditional": {
+        "yo": "buscaría",
+        "tú": "buscarías",
+        "él/ella/usted": "buscaría",
+        "nosotros/as": "buscaríamos",
+        "vosotros/as": "buscaríais",
+        "ellos/ellas/ustedes": "buscarían"
+      },
+      "Present Subjunctive": {
+        "yo": "busque",
+        "tú": "busques",
+        "él/ella/usted": "busque",
+        "nosotros/as": "busquemos",
+        "vosotros/as": "busquéis",
+        "ellos/ellas/ustedes": "busquen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "buscara",
+        "tú": "buscaras",
+        "él/ella/usted": "buscara",
+        "nosotros/as": "buscáramos",
+        "vosotros/as": "buscarais",
+        "ellos/ellas/ustedes": "buscaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "busca",
+        "él/ella/usted": "busque",
+        "nosotros/as": "busquemos",
+        "vosotros/as": "buscad",
+        "ellos/ellas/ustedes": "busquen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no busques",
+        "él/ella/usted": "no busque",
+        "nosotros/as": "no busquemos",
+        "vosotros/as": "no busquéis",
+        "ellos/ellas/ustedes": "no busquen"
+      }
+    }
+  },
+  {
+    "infinitive": "existir",
+    "translation": "to exist",
+    "conjugations": {
+      "Present": {
+        "yo": "existo",
+        "tú": "existes",
+        "él/ella/usted": "existe",
+        "nosotros/as": "existimos",
+        "vosotros/as": "existís",
+        "ellos/ellas/ustedes": "existen"
+      },
+      "Preterite": {
+        "yo": "existí",
+        "tú": "exististe",
+        "él/ella/usted": "existió",
+        "nosotros/as": "existimos",
+        "vosotros/as": "exististeis",
+        "ellos/ellas/ustedes": "existieron"
+      },
+      "Imperfect": {
+        "yo": "existía",
+        "tú": "existías",
+        "él/ella/usted": "existía",
+        "nosotros/as": "existíamos",
+        "vosotros/as": "existíais",
+        "ellos/ellas/ustedes": "existían"
+      },
+      "Future": {
+        "yo": "existiré",
+        "tú": "existirás",
+        "él/ella/usted": "existirá",
+        "nosotros/as": "existiremos",
+        "vosotros/as": "existiréis",
+        "ellos/ellas/ustedes": "existirán"
+      },
+      "Conditional": {
+        "yo": "existiría",
+        "tú": "existirías",
+        "él/ella/usted": "existiría",
+        "nosotros/as": "existiríamos",
+        "vosotros/as": "existiríais",
+        "ellos/ellas/ustedes": "existirían"
+      },
+      "Present Subjunctive": {
+        "yo": "exista",
+        "tú": "existas",
+        "él/ella/usted": "exista",
+        "nosotros/as": "existamos",
+        "vosotros/as": "existáis",
+        "ellos/ellas/ustedes": "existan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "existiera",
+        "tú": "existieras",
+        "él/ella/usted": "existiera",
+        "nosotros/as": "existiéramos",
+        "vosotros/as": "existierais",
+        "ellos/ellas/ustedes": "existieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "existe",
+        "él/ella/usted": "exista",
+        "nosotros/as": "existamos",
+        "vosotros/as": "existid",
+        "ellos/ellas/ustedes": "existan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no existas",
+        "él/ella/usted": "no exista",
+        "nosotros/as": "no existamos",
+        "vosotros/as": "no existáis",
+        "ellos/ellas/ustedes": "no existan"
+      }
+    }
+  },
+  {
+    "infinitive": "entrar",
+    "translation": "to enter",
+    "conjugations": {
+      "Present": {
+        "yo": "entro",
+        "tú": "entras",
+        "él/ella/usted": "entra",
+        "nosotros/as": "entramos",
+        "vosotros/as": "entráis",
+        "ellos/ellas/ustedes": "entran"
+      },
+      "Preterite": {
+        "yo": "entré",
+        "tú": "entraste",
+        "él/ella/usted": "entró",
+        "nosotros/as": "entramos",
+        "vosotros/as": "entrasteis",
+        "ellos/ellas/ustedes": "entraron"
+      },
+      "Imperfect": {
+        "yo": "entraba",
+        "tú": "entrabas",
+        "él/ella/usted": "entraba",
+        "nosotros/as": "entrábamos",
+        "vosotros/as": "entrabais",
+        "ellos/ellas/ustedes": "entraban"
+      },
+      "Future": {
+        "yo": "entraré",
+        "tú": "entrarás",
+        "él/ella/usted": "entrará",
+        "nosotros/as": "entraremos",
+        "vosotros/as": "entraréis",
+        "ellos/ellas/ustedes": "entrarán"
+      },
+      "Conditional": {
+        "yo": "entraría",
+        "tú": "entrarías",
+        "él/ella/usted": "entraría",
+        "nosotros/as": "entraríamos",
+        "vosotros/as": "entraríais",
+        "ellos/ellas/ustedes": "entrarían"
+      },
+      "Present Subjunctive": {
+        "yo": "entre",
+        "tú": "entres",
+        "él/ella/usted": "entre",
+        "nosotros/as": "entremos",
+        "vosotros/as": "entréis",
+        "ellos/ellas/ustedes": "entren"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "entrara",
+        "tú": "entraras",
+        "él/ella/usted": "entrara",
+        "nosotros/as": "entráramos",
+        "vosotros/as": "entrarais",
+        "ellos/ellas/ustedes": "entraran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "entra",
+        "él/ella/usted": "entre",
+        "nosotros/as": "entremos",
+        "vosotros/as": "entrad",
+        "ellos/ellas/ustedes": "entren"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no entres",
+        "él/ella/usted": "no entre",
+        "nosotros/as": "no entremos",
+        "vosotros/as": "no entréis",
+        "ellos/ellas/ustedes": "no entren"
+      }
+    }
+  },
+  {
+    "infinitive": "trabajar",
+    "translation": "to work",
+    "conjugations": {
+      "Present": {
+        "yo": "trabajo",
+        "tú": "trabajas",
+        "él/ella/usted": "trabaja",
+        "nosotros/as": "trabajamos",
+        "vosotros/as": "trabajáis",
+        "ellos/ellas/ustedes": "trabajan"
+      },
+      "Preterite": {
+        "yo": "trabajé",
+        "tú": "trabajaste",
+        "él/ella/usted": "trabajó",
+        "nosotros/as": "trabajamos",
+        "vosotros/as": "trabajasteis",
+        "ellos/ellas/ustedes": "trabajaron"
+      },
+      "Imperfect": {
+        "yo": "trabajaba",
+        "tú": "trabajabas",
+        "él/ella/usted": "trabajaba",
+        "nosotros/as": "trabajábamos",
+        "vosotros/as": "trabajabais",
+        "ellos/ellas/ustedes": "trabajaban"
+      },
+      "Future": {
+        "yo": "trabajaré",
+        "tú": "trabajarás",
+        "él/ella/usted": "trabajará",
+        "nosotros/as": "trabajaremos",
+        "vosotros/as": "trabajaréis",
+        "ellos/ellas/ustedes": "trabajarán"
+      },
+      "Conditional": {
+        "yo": "trabajaría",
+        "tú": "trabajarías",
+        "él/ella/usted": "trabajaría",
+        "nosotros/as": "trabajaríamos",
+        "vosotros/as": "trabajaríais",
+        "ellos/ellas/ustedes": "trabajarían"
+      },
+      "Present Subjunctive": {
+        "yo": "trabaje",
+        "tú": "trabajes",
+        "él/ella/usted": "trabaje",
+        "nosotros/as": "trabajemos",
+        "vosotros/as": "trabajéis",
+        "ellos/ellas/ustedes": "trabajen"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "trabajara",
+        "tú": "trabajaras",
+        "él/ella/usted": "trabajara",
+        "nosotros/as": "trabajáramos",
+        "vosotros/as": "trabajarais",
+        "ellos/ellas/ustedes": "trabajaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "trabaja",
+        "él/ella/usted": "trabaje",
+        "nosotros/as": "trabajemos",
+        "vosotros/as": "trabajad",
+        "ellos/ellas/ustedes": "trabajen"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no trabajes",
+        "él/ella/usted": "no trabaje",
+        "nosotros/as": "no trabajemos",
+        "vosotros/as": "no trabajéis",
+        "ellos/ellas/ustedes": "no trabajen"
+      }
+    }
+  },
+  {
+    "infinitive": "escribir",
+    "translation": "to write",
+    "conjugations": {
+      "Present": {
+        "yo": "escribo",
+        "tú": "escribes",
+        "él/ella/usted": "escribe",
+        "nosotros/as": "escribimos",
+        "vosotros/as": "escribís",
+        "ellos/ellas/ustedes": "escriben"
+      },
+      "Preterite": {
+        "yo": "escribí",
+        "tú": "escribiste",
+        "él/ella/usted": "escribió",
+        "nosotros/as": "escribimos",
+        "vosotros/as": "escribisteis",
+        "ellos/ellas/ustedes": "escribieron"
+      },
+      "Imperfect": {
+        "yo": "escribía",
+        "tú": "escribías",
+        "él/ella/usted": "escribía",
+        "nosotros/as": "escribíamos",
+        "vosotros/as": "escribíais",
+        "ellos/ellas/ustedes": "escribían"
+      },
+      "Future": {
+        "yo": "escribiré",
+        "tú": "escribirás",
+        "él/ella/usted": "escribirá",
+        "nosotros/as": "escribiremos",
+        "vosotros/as": "escribiréis",
+        "ellos/ellas/ustedes": "escribirán"
+      },
+      "Conditional": {
+        "yo": "escribiría",
+        "tú": "escribirías",
+        "él/ella/usted": "escribiría",
+        "nosotros/as": "escribiríamos",
+        "vosotros/as": "escribiríais",
+        "ellos/ellas/ustedes": "escribirían"
+      },
+      "Present Subjunctive": {
+        "yo": "escriba",
+        "tú": "escribas",
+        "él/ella/usted": "escriba",
+        "nosotros/as": "escribamos",
+        "vosotros/as": "escribáis",
+        "ellos/ellas/ustedes": "escriban"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "escribiera",
+        "tú": "escribieras",
+        "él/ella/usted": "escribiera",
+        "nosotros/as": "escribiéramos",
+        "vosotros/as": "escribierais",
+        "ellos/ellas/ustedes": "escribieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "escribe",
+        "él/ella/usted": "escriba",
+        "nosotros/as": "escribamos",
+        "vosotros/as": "escribid",
+        "ellos/ellas/ustedes": "escriban"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no escribas",
+        "él/ella/usted": "no escriba",
+        "nosotros/as": "no escribamos",
+        "vosotros/as": "no escribáis",
+        "ellos/ellas/ustedes": "no escriban"
+      }
+    }
+  },
+  {
+    "infinitive": "perder",
+    "translation": "to lose",
+    "conjugations": {
+      "Present": {
+        "yo": "pierdo",
+        "tú": "pierdes",
+        "él/ella/usted": "pierde",
+        "nosotros/as": "perdemos",
+        "vosotros/as": "perdéis",
+        "ellos/ellas/ustedes": "pierden"
+      },
+      "Preterite": {
+        "yo": "perdí",
+        "tú": "perdiste",
+        "él/ella/usted": "perdió",
+        "nosotros/as": "perdimos",
+        "vosotros/as": "perdisteis",
+        "ellos/ellas/ustedes": "perdieron"
+      },
+      "Imperfect": {
+        "yo": "perdía",
+        "tú": "perdías",
+        "él/ella/usted": "perdía",
+        "nosotros/as": "perdíamos",
+        "vosotros/as": "perdíais",
+        "ellos/ellas/ustedes": "perdían"
+      },
+      "Future": {
+        "yo": "perderé",
+        "tú": "perderás",
+        "él/ella/usted": "perderá",
+        "nosotros/as": "perderemos",
+        "vosotros/as": "perderéis",
+        "ellos/ellas/ustedes": "perderán"
+      },
+      "Conditional": {
+        "yo": "perdería",
+        "tú": "perderías",
+        "él/ella/usted": "perdería",
+        "nosotros/as": "perderíamos",
+        "vosotros/as": "perderíais",
+        "ellos/ellas/ustedes": "perderían"
+      },
+      "Present Subjunctive": {
+        "yo": "pierda",
+        "tú": "pierdas",
+        "él/ella/usted": "pierda",
+        "nosotros/as": "perdamos",
+        "vosotros/as": "perdáis",
+        "ellos/ellas/ustedes": "pierdan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "perdiera",
+        "tú": "perdieras",
+        "él/ella/usted": "perdiera",
+        "nosotros/as": "perdiéramos",
+        "vosotros/as": "perdierais",
+        "ellos/ellas/ustedes": "perdieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "pierde",
+        "él/ella/usted": "pierda",
+        "nosotros/as": "perdamos",
+        "vosotros/as": "perded",
+        "ellos/ellas/ustedes": "pierdan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no pierdas",
+        "él/ella/usted": "no pierda",
+        "nosotros/as": "no perdamos",
+        "vosotros/as": "no perdáis",
+        "ellos/ellas/ustedes": "no pierdan"
+      }
+    }
+  },
+  {
+    "infinitive": "producir",
+    "translation": "to produce",
+    "conjugations": {
+      "Present": {
+        "yo": "produzco",
+        "tú": "produces",
+        "él/ella/usted": "produce",
+        "nosotros/as": "producimos",
+        "vosotros/as": "producís",
+        "ellos/ellas/ustedes": "producen"
+      },
+      "Preterite": {
+        "yo": "produje",
+        "tú": "produjiste",
+        "él/ella/usted": "produjo",
+        "nosotros/as": "produjimos",
+        "vosotros/as": "produjisteis",
+        "ellos/ellas/ustedes": "produjeron"
+      },
+      "Imperfect": {
+        "yo": "producía",
+        "tú": "producías",
+        "él/ella/usted": "producía",
+        "nosotros/as": "producíamos",
+        "vosotros/as": "producíais",
+        "ellos/ellas/ustedes": "producían"
+      },
+      "Future": {
+        "yo": "produciré",
+        "tú": "producirás",
+        "él/ella/usted": "producirá",
+        "nosotros/as": "produciremos",
+        "vosotros/as": "produciréis",
+        "ellos/ellas/ustedes": "producirán"
+      },
+      "Conditional": {
+        "yo": "produciría",
+        "tú": "producirías",
+        "él/ella/usted": "produciría",
+        "nosotros/as": "produciríamos",
+        "vosotros/as": "produciríais",
+        "ellos/ellas/ustedes": "producirían"
+      },
+      "Present Subjunctive": {
+        "yo": "produzca",
+        "tú": "produzcas",
+        "él/ella/usted": "produzca",
+        "nosotros/as": "produzcamos",
+        "vosotros/as": "produzcáis",
+        "ellos/ellas/ustedes": "produzcan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "produjera",
+        "tú": "produjeras",
+        "él/ella/usted": "produjera",
+        "nosotros/as": "produjéramos",
+        "vosotros/as": "produjerais",
+        "ellos/ellas/ustedes": "produjeran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "produce",
+        "él/ella/usted": "produzca",
+        "nosotros/as": "produzcamos",
+        "vosotros/as": "producid",
+        "ellos/ellas/ustedes": "produzcan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no produzcas",
+        "él/ella/usted": "no produzca",
+        "nosotros/as": "no produzcamos",
+        "vosotros/as": "no produzcáis",
+        "ellos/ellas/ustedes": "no produzcan"
+      }
+    }
+  },
+  {
+    "infinitive": "ocurrir",
+    "translation": "to happen",
+    "conjugations": {
+      "Present": {
+        "yo": "ocurro",
+        "tú": "ocurres",
+        "él/ella/usted": "ocurre",
+        "nosotros/as": "ocurrimos",
+        "vosotros/as": "ocurrís",
+        "ellos/ellas/ustedes": "ocurren"
+      },
+      "Preterite": {
+        "yo": "ocurrí",
+        "tú": "ocurriste",
+        "él/ella/usted": "ocurrió",
+        "nosotros/as": "ocurrimos",
+        "vosotros/as": "ocurristeis",
+        "ellos/ellas/ustedes": "ocurrieron"
+      },
+      "Imperfect": {
+        "yo": "ocurría",
+        "tú": "ocurrías",
+        "él/ella/usted": "ocurría",
+        "nosotros/as": "ocurríamos",
+        "vosotros/as": "ocurríais",
+        "ellos/ellas/ustedes": "ocurrían"
+      },
+      "Future": {
+        "yo": "ocurriré",
+        "tú": "ocurrirás",
+        "él/ella/usted": "ocurrirá",
+        "nosotros/as": "ocurriremos",
+        "vosotros/as": "ocurriréis",
+        "ellos/ellas/ustedes": "ocurrirán"
+      },
+      "Conditional": {
+        "yo": "ocurriría",
+        "tú": "ocurrirías",
+        "él/ella/usted": "ocurriría",
+        "nosotros/as": "ocurriríamos",
+        "vosotros/as": "ocurriríais",
+        "ellos/ellas/ustedes": "ocurrirían"
+      },
+      "Present Subjunctive": {
+        "yo": "ocurra",
+        "tú": "ocurras",
+        "él/ella/usted": "ocurra",
+        "nosotros/as": "ocurramos",
+        "vosotros/as": "ocurráis",
+        "ellos/ellas/ustedes": "ocurran"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "ocurriera",
+        "tú": "ocurrieras",
+        "él/ella/usted": "ocurriera",
+        "nosotros/as": "ocurriéramos",
+        "vosotros/as": "ocurrierais",
+        "ellos/ellas/ustedes": "ocurrieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "ocurre",
+        "él/ella/usted": "ocurra",
+        "nosotros/as": "ocurramos",
+        "vosotros/as": "ocurrid",
+        "ellos/ellas/ustedes": "ocurran"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no ocurras",
+        "él/ella/usted": "no ocurra",
+        "nosotros/as": "no ocurramos",
+        "vosotros/as": "no ocurráis",
+        "ellos/ellas/ustedes": "no ocurran"
+      }
+    }
+  },
+  {
+    "infinitive": "entender",
+    "translation": "to understand",
+    "conjugations": {
+      "Present": {
+        "yo": "entiendo",
+        "tú": "entiendes",
+        "él/ella/usted": "entiende",
+        "nosotros/as": "entendemos",
+        "vosotros/as": "entendéis",
+        "ellos/ellas/ustedes": "entienden"
+      },
+      "Preterite": {
+        "yo": "entendí",
+        "tú": "entendiste",
+        "él/ella/usted": "entendió",
+        "nosotros/as": "entendimos",
+        "vosotros/as": "entendisteis",
+        "ellos/ellas/ustedes": "entendieron"
+      },
+      "Imperfect": {
+        "yo": "entendía",
+        "tú": "entendías",
+        "él/ella/usted": "entendía",
+        "nosotros/as": "entendíamos",
+        "vosotros/as": "entendíais",
+        "ellos/ellas/ustedes": "entendían"
+      },
+      "Future": {
+        "yo": "entenderé",
+        "tú": "entenderás",
+        "él/ella/usted": "entenderá",
+        "nosotros/as": "entenderemos",
+        "vosotros/as": "entenderéis",
+        "ellos/ellas/ustedes": "entenderán"
+      },
+      "Conditional": {
+        "yo": "entendería",
+        "tú": "entenderías",
+        "él/ella/usted": "entendería",
+        "nosotros/as": "entenderíamos",
+        "vosotros/as": "entenderíais",
+        "ellos/ellas/ustedes": "entenderían"
+      },
+      "Present Subjunctive": {
+        "yo": "entienda",
+        "tú": "entiendas",
+        "él/ella/usted": "entienda",
+        "nosotros/as": "entendamos",
+        "vosotros/as": "entendáis",
+        "ellos/ellas/ustedes": "entiendan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "entendiera",
+        "tú": "entendieras",
+        "él/ella/usted": "entendiera",
+        "nosotros/as": "entendiéramos",
+        "vosotros/as": "entendierais",
+        "ellos/ellas/ustedes": "entendieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "entiende",
+        "él/ella/usted": "entienda",
+        "nosotros/as": "entendamos",
+        "vosotros/as": "entended",
+        "ellos/ellas/ustedes": "entiendan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no entiendas",
+        "él/ella/usted": "no entienda",
+        "nosotros/as": "no entendamos",
+        "vosotros/as": "no entendáis",
+        "ellos/ellas/ustedes": "no entiendan"
+      }
+    }
+  },
+  {
+    "infinitive": "pedir",
+    "translation": "to ask for",
+    "conjugations": {
+      "Present": {
+        "yo": "pido",
+        "tú": "pides",
+        "él/ella/usted": "pide",
+        "nosotros/as": "pedimos",
+        "vosotros/as": "pedís",
+        "ellos/ellas/ustedes": "piden"
+      },
+      "Preterite": {
+        "yo": "pedí",
+        "tú": "pediste",
+        "él/ella/usted": "pidió",
+        "nosotros/as": "pedimos",
+        "vosotros/as": "pedisteis",
+        "ellos/ellas/ustedes": "pidieron"
+      },
+      "Imperfect": {
+        "yo": "pedía",
+        "tú": "pedías",
+        "él/ella/usted": "pedía",
+        "nosotros/as": "pedíamos",
+        "vosotros/as": "pedíais",
+        "ellos/ellas/ustedes": "pedían"
+      },
+      "Future": {
+        "yo": "pediré",
+        "tú": "pedirás",
+        "él/ella/usted": "pedirá",
+        "nosotros/as": "pediremos",
+        "vosotros/as": "pediréis",
+        "ellos/ellas/ustedes": "pedirán"
+      },
+      "Conditional": {
+        "yo": "pediría",
+        "tú": "pedirías",
+        "él/ella/usted": "pediría",
+        "nosotros/as": "pediríamos",
+        "vosotros/as": "pediríais",
+        "ellos/ellas/ustedes": "pedirían"
+      },
+      "Present Subjunctive": {
+        "yo": "pida",
+        "tú": "pidas",
+        "él/ella/usted": "pida",
+        "nosotros/as": "pidamos",
+        "vosotros/as": "pidáis",
+        "ellos/ellas/ustedes": "pidan"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "pidiera",
+        "tú": "pidieras",
+        "él/ella/usted": "pidiera",
+        "nosotros/as": "pidiéramos",
+        "vosotros/as": "pidierais",
+        "ellos/ellas/ustedes": "pidieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "pide",
+        "él/ella/usted": "pida",
+        "nosotros/as": "pidamos",
+        "vosotros/as": "pedid",
+        "ellos/ellas/ustedes": "pidan"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no pidas",
+        "él/ella/usted": "no pida",
+        "nosotros/as": "no pidamos",
+        "vosotros/as": "no pidáis",
+        "ellos/ellas/ustedes": "no pidan"
+      }
+    }
+  },
+  {
+    "infinitive": "recibir",
+    "translation": "to receive",
+    "conjugations": {
+      "Present": {
+        "yo": "recibo",
+        "tú": "recibes",
+        "él/ella/usted": "recibe",
+        "nosotros/as": "recibimos",
+        "vosotros/as": "recibís",
+        "ellos/ellas/ustedes": "reciben"
+      },
+      "Preterite": {
+        "yo": "recibí",
+        "tú": "recibiste",
+        "él/ella/usted": "recibió",
+        "nosotros/as": "recibimos",
+        "vosotros/as": "recibisteis",
+        "ellos/ellas/ustedes": "recibieron"
+      },
+      "Imperfect": {
+        "yo": "recibía",
+        "tú": "recibías",
+        "él/ella/usted": "recibía",
+        "nosotros/as": "recibíamos",
+        "vosotros/as": "recibíais",
+        "ellos/ellas/ustedes": "recibían"
+      },
+      "Future": {
+        "yo": "recibiré",
+        "tú": "recibirás",
+        "él/ella/usted": "recibirá",
+        "nosotros/as": "recibiremos",
+        "vosotros/as": "recibiréis",
+        "ellos/ellas/ustedes": "recibirán"
+      },
+      "Conditional": {
+        "yo": "recibiría",
+        "tú": "recibirías",
+        "él/ella/usted": "recibiría",
+        "nosotros/as": "recibiríamos",
+        "vosotros/as": "recibiríais",
+        "ellos/ellas/ustedes": "recibirían"
+      },
+      "Present Subjunctive": {
+        "yo": "reciba",
+        "tú": "recibas",
+        "él/ella/usted": "reciba",
+        "nosotros/as": "recibamos",
+        "vosotros/as": "recibáis",
+        "ellos/ellas/ustedes": "reciban"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "recibiera",
+        "tú": "recibieras",
+        "él/ella/usted": "recibiera",
+        "nosotros/as": "recibiéramos",
+        "vosotros/as": "recibierais",
+        "ellos/ellas/ustedes": "recibieran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "recibe",
+        "él/ella/usted": "reciba",
+        "nosotros/as": "recibamos",
+        "vosotros/as": "recibid",
+        "ellos/ellas/ustedes": "reciban"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no recibas",
+        "él/ella/usted": "no reciba",
+        "nosotros/as": "no recibamos",
+        "vosotros/as": "no recibáis",
+        "ellos/ellas/ustedes": "no reciban"
+      }
+    }
+  },
+  {
+    "infinitive": "recordar",
+    "translation": "to remember",
+    "conjugations": {
+      "Present": {
+        "yo": "recuerdo",
+        "tú": "recuerdas",
+        "él/ella/usted": "recuerda",
+        "nosotros/as": "recordamos",
+        "vosotros/as": "recordáis",
+        "ellos/ellas/ustedes": "recuerdan"
+      },
+      "Preterite": {
+        "yo": "recordé",
+        "tú": "recordaste",
+        "él/ella/usted": "recordó",
+        "nosotros/as": "recordamos",
+        "vosotros/as": "recordasteis",
+        "ellos/ellas/ustedes": "recordaron"
+      },
+      "Imperfect": {
+        "yo": "recordaba",
+        "tú": "recordabas",
+        "él/ella/usted": "recordaba",
+        "nosotros/as": "recordábamos",
+        "vosotros/as": "recordabais",
+        "ellos/ellas/ustedes": "recordaban"
+      },
+      "Future": {
+        "yo": "recordaré",
+        "tú": "recordarás",
+        "él/ella/usted": "recordará",
+        "nosotros/as": "recordaremos",
+        "vosotros/as": "recordaréis",
+        "ellos/ellas/ustedes": "recordarán"
+      },
+      "Conditional": {
+        "yo": "recordaría",
+        "tú": "recordarías",
+        "él/ella/usted": "recordaría",
+        "nosotros/as": "recordaríamos",
+        "vosotros/as": "recordaríais",
+        "ellos/ellas/ustedes": "recordarían"
+      },
+      "Present Subjunctive": {
+        "yo": "recuerde",
+        "tú": "recuerdes",
+        "él/ella/usted": "recuerde",
+        "nosotros/as": "recordemos",
+        "vosotros/as": "recordéis",
+        "ellos/ellas/ustedes": "recuerden"
+      },
+      "Imperfect Subjunctive": {
+        "yo": "recordara",
+        "tú": "recordaras",
+        "él/ella/usted": "recordara",
+        "nosotros/as": "recordáramos",
+        "vosotros/as": "recordarais",
+        "ellos/ellas/ustedes": "recordaran"
+      },
+      "Imperative Affirmative": {
+        "yo": "-",
+        "tú": "recuerda",
+        "él/ella/usted": "recuerde",
+        "nosotros/as": "recordemos",
+        "vosotros/as": "recordad",
+        "ellos/ellas/ustedes": "recuerden"
+      },
+      "Imperative Negative": {
+        "yo": "-",
+        "tú": "no recuerdes",
+        "él/ella/usted": "no recuerde",
+        "nosotros/as": "no recordemos",
+        "vosotros/as": "no recordéis",
+        "ellos/ellas/ustedes": "no recuerden"
+      }
+    }
+  }
+]
